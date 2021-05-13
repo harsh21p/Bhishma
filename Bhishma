@@ -9,7 +9,7 @@ green="\e[32m"
 blue="\e[34m"
 end="\e[0m"
 
-dir=~/Bhishama
+dir=~/Bhishma
 echo    "                                                                       ";
 echo -e "$bold$orange    //   ) )                                                    $end";
 echo -e "$bold$orange   //___/ /  / __     ( )  ___     / __      _   __      ___    $end";
@@ -28,7 +28,7 @@ echo    "
 
                                                                   ";
 
-for url in $(cat ~/Bhishama/$1); do
+for url in $(cat ~/Bhishma/$1); do
 	echo "-------------------------------------------------------------"
 	echo -e "$red Testing : $green $url $end"
 	echo "-------------------------------------------------------------"

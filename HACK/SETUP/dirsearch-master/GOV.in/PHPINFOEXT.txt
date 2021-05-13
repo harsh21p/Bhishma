@@ -1,0 +1,7 @@
+info.php
+Info.php
+phpinfo.php
+1.php
+INFO.php
+PHPINFO.php
+1234.php
