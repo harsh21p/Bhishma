@@ -1,0 +1,39 @@
+#!/bin/bash
+
+bold="\e[1m"
+Underlined="\e[4m"
+red="\e[31m"
+orange="\e[33m"
+white="\e[37m"
+green="\e[32m"
+blue="\e[34m"
+end="\e[0m"
+
+dir=~/Bhishama
+echo    "                                                                       ";
+echo -e "$bold$orange    //   ) )                                                    $end";
+echo -e "$bold$orange   //___/ /  / __     ( )  ___     / __      _   __      ___    $end";
+echo -e "$bold$white  / __  (   //   ) ) / / ((   ) ) //   ) ) // ) )  ) ) //   ) ) $end";
+echo -e "$bold$white //    ) ) //   / / / /   \ \    //   / / // / /  / / //   / /  $end";
+echo -e "$bold$green//____/ / //   / / / / //   ) ) //   / / // / /  / / ((___( (   $end";
+echo    "                                                                       ";
+
+
+echo -e "$red $bold Automated by The$green harsh21_p $end";
+echo    "                                                                       ";
+
+echo -e "$red \n THIS TOOL IS FOR BASIC SUBDOMAIN FINDING & XSS VULNERAILITY SCANING $end";
+
+echo    "     
+
+                                                                  ";
+
+for url in $(cat ~/Bhishama/$1); do
+	echo "-------------------------------------------------------------"
+	echo -e "$red Testing : $green $url $end"
+	echo "-------------------------------------------------------------"
+	echo -e "$red Performing : $green Subdomain Scanning & Resolving $end"
+	echo "-------------------------------------------------------------"
+	$dir/resolver.sh $url $1
+	echo "-------------------------------------------------------------"
+done

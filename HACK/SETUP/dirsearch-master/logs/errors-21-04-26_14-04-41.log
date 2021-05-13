@@ -1,0 +1,60 @@
+
+[21-04-26 15:05:26] - http://raichur.nic.in/ - _data/ - Cannot connect to: raichur.nic.in:80
+[21-04-26 15:10:43] - https://repository.seshagun.nic.in/ - app/src - Cannot connect to: repository.seshagun.nic.in:443
+[21-04-26 15:10:43] - https://repository.seshagun.nic.in/ - engine - Cannot connect to: repository.seshagun.nic.in:443
+[21-04-26 15:10:43] - https://repository.seshagun.nic.in/ - Uploads - Cannot connect to: repository.seshagun.nic.in:443
+[21-04-26 15:10:44] - https://repository.seshagun.nic.in/ - vendor - Cannot connect to: repository.seshagun.nic.in:443
+[21-04-26 15:10:51] - https://repository.seshagun.nic.in/ - app/etc/ - Cannot connect to: repository.seshagun.nic.in:443
+[21-04-26 15:10:51] - https://repository.seshagun.nic.in/ - DATA - Cannot connect to: repository.seshagun.nic.in:443
+[21-04-26 15:10:51] - https://repository.seshagun.nic.in/ - js - Cannot connect to: repository.seshagun.nic.in:443
+[21-04-26 15:10:51] - https://repository.seshagun.nic.in/ - UPLOADS - Cannot connect to: repository.seshagun.nic.in:443
+[21-04-26 15:13:38] - http://revenue.up.nic.in/ - Database_Backup/ - Cannot connect to: revenue.up.nic.in:80
+[21-04-26 15:18:11] - https://rmk.nic.in/ - Uploads - There was a problem in the request to: https://164.100.228.125:443/Uploads
+[21-04-26 15:18:11] - https://rmk.nic.in/ - DB - There was a problem in the request to: https://164.100.228.125:443/DB
+[21-04-26 15:18:11] - https://rmk.nic.in/ - js - There was a problem in the request to: https://164.100.228.125:443/js
+[21-04-26 15:18:12] - https://rmk.nic.in/ - 1.php - There was a problem in the request to: https://164.100.228.125:443/1.php
+[21-04-26 15:18:12] - https://rmk.nic.in/ - uploads - There was a problem in the request to: https://164.100.228.125:443/uploads
+[21-04-26 15:18:12] - https://rmk.nic.in/ - DATA - There was a problem in the request to: https://164.100.228.125:443/DATA
+[21-04-26 15:18:12] - https://rmk.nic.in/ - data - There was a problem in the request to: https://164.100.228.125:443/data
+[21-04-26 15:18:13] - https://rmk.nic.in/ - JS - There was a problem in the request to: https://164.100.228.125:443/JS
+[21-04-26 15:18:13] - https://rmk.nic.in/ - Database_Backup/ - There was a problem in the request to: https://164.100.228.125:443/Database_Backup/
+[21-04-26 15:18:14] - https://rmk.nic.in/ - _data/ - There was a problem in the request to: https://164.100.228.125:443/_data/
+[21-04-26 15:18:14] - https://rmk.nic.in/ - app/etc/ - There was a problem in the request to: https://164.100.228.125:443/app/etc/
+[21-04-26 15:18:15] - https://rmk.nic.in/ - Data - There was a problem in the request to: https://164.100.228.125:443/Data
+[21-04-26 15:18:15] - https://rmk.nic.in/ - UPLOADS - There was a problem in the request to: https://164.100.228.125:443/UPLOADS
+[21-04-26 15:18:15] - https://rmk.nic.in/ - Upload - There was a problem in the request to: https://164.100.228.125:443/Upload
+[21-04-26 15:18:16] - https://rmk.nic.in/ - Images - There was a problem in the request to: https://164.100.228.125:443/Images
+[21-04-26 15:18:16] - https://rmk.nic.in/ - app/src - There was a problem in the request to: https://164.100.228.125:443/app/src
+[21-04-26 15:18:16] - https://rmk.nic.in/ - vendor - There was a problem in the request to: https://164.100.228.125:443/vendor
+[21-04-26 15:18:17] - https://rmk.nic.in/ - engine - There was a problem in the request to: https://164.100.228.125:443/engine
+[21-04-26 15:18:17] - https://rmk.nic.in/ - UPLOAD - There was a problem in the request to: https://164.100.228.125:443/UPLOAD
+[21-04-26 15:18:17] - https://rmk.nic.in/ - upload - There was a problem in the request to: https://164.100.228.125:443/upload
+[21-04-26 15:18:17] - https://rmk.nic.in/ - Database_Administration/ - There was a problem in the request to: https://164.100.228.125:443/Database_Administration/
+[21-04-26 15:18:18] - https://rmk.nic.in/ - images - There was a problem in the request to: https://164.100.228.125:443/images
+[21-04-26 15:18:18] - https://rmk.nic.in/ - MyAdmin/scripts/ - There was a problem in the request to: https://164.100.228.125:443/MyAdmin/scripts/
+[21-04-26 15:18:18] - https://rmk.nic.in/ - IMAGES - There was a problem in the request to: https://164.100.228.125:443/IMAGES
+[21-04-26 15:19:28] - https://rstv.nic.in/ - UPLOADS - Cannot connect to: rstv.nic.in:443
+[21-04-26 15:23:23] - http://rsvy.bih.nic.in/ - _data/ - Cannot connect to: rsvy.bih.nic.in:80
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - Database_Backup/ - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - 1.php - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - app/etc/ - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - DB - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - images - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - JS - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - app/src - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - Database_Administration/ - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - _data/ - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - engine - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - js - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - UPLOADS - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - upload - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - MyAdmin/scripts/ - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - data - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - vendor - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - Data - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - UPLOAD - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - DATA - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - Images - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - IMAGES - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - uploads - Cannot connect to: sproxy.nic.in:443
+[21-04-26 15:37:34] - https://sproxy.nic.in/ - Upload - Cannot connect to: sproxy.nic.in:443

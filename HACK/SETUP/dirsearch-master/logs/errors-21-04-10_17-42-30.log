@@ -1,0 +1,125 @@
+
+[21-04-10 17:45:35] - https://api-qa-mika.nokia.com/ - .jsfmtrc - Cannot connect to: api-qa-mika.nokia.com:443
+[21-04-10 17:45:35] - https://api-qa-mika.nokia.com/ - .jupyter/jupyter_notebook_config.json - Cannot connect to: api-qa-mika.nokia.com:443
+[21-04-10 17:45:35] - https://api-qa-mika.nokia.com/ - .kdbx - Cannot connect to: api-qa-mika.nokia.com:443
+[21-04-10 17:45:35] - https://api-qa-mika.nokia.com/ - .keys - Cannot connect to: api-qa-mika.nokia.com:443
+[21-04-10 17:45:35] - https://api-qa-mika.nokia.com/ - .keys.yml.swp - Cannot connect to: api-qa-mika.nokia.com:443
+[21-04-10 17:45:35] - https://api-qa-mika.nokia.com/ - .kdev4/ - Cannot connect to: api-qa-mika.nokia.com:443
+[21-04-10 17:45:35] - https://api-qa-mika.nokia.com/ - .json - Cannot connect to: api-qa-mika.nokia.com:443
+[21-04-10 17:45:35] - https://api-qa-mika.nokia.com/ - .kde - Cannot connect to: api-qa-mika.nokia.com:443
+[21-04-10 17:45:35] - https://api-qa-mika.nokia.com/ - .keys.yml - Cannot connect to: api-qa-mika.nokia.com:443
+[21-04-10 17:45:39] - https://api-qa-mika.nokia.com/ - .lein-deps-sum - Cannot connect to: api-qa-mika.nokia.com:443
+[21-04-10 17:45:43] - https://api-qa-mika.nokia.com/ - .lesshst - Cannot connect to: api-qa-mika.nokia.com:443
+[21-04-10 17:46:10] - https://api-qa-mika.nokia.com/ - .jazzy.yaml - There was a problem in the request to: https://168.62.104.99:443/.jazzy.yaml
+[21-04-10 17:46:10] - https://api-qa-mika.nokia.com/ - .jekyll-cache/ - There was a problem in the request to: https://168.62.104.99:443/.jekyll-cache/
+[21-04-10 17:46:11] - https://api-qa-mika.nokia.com/ - .jsdtscope - There was a problem in the request to: https://168.62.104.99:443/.jsdtscope
+[21-04-10 17:46:13] - https://api-qa-mika.nokia.com/ - .jenkins.sh - There was a problem in the request to: https://168.62.104.99:443/.jenkins.sh
+[21-04-10 17:46:13] - https://api-qa-mika.nokia.com/ - .irbrc - There was a problem in the request to: https://168.62.104.99:443/.irbrc
+[21-04-10 17:46:13] - https://api-qa-mika.nokia.com/ - .isort.cfg - There was a problem in the request to: https://168.62.104.99:443/.isort.cfg
+[21-04-10 17:46:13] - https://api-qa-mika.nokia.com/ - .jpeg - There was a problem in the request to: https://168.62.104.99:443/.jpeg
+[21-04-10 17:46:13] - https://api-qa-mika.nokia.com/ - .interproscan-5/ - There was a problem in the request to: https://168.62.104.99:443/.interproscan-5/
+[21-04-10 17:46:14] - https://api-qa-mika.nokia.com/ - .irb-history - There was a problem in the request to: https://168.62.104.99:443/.irb-history
+[21-04-10 17:46:14] - https://api-qa-mika.nokia.com/ - .key - There was a problem in the request to: https://168.62.104.99:443/.key
+[21-04-10 17:46:16] - https://api-qa-mika.nokia.com/ - .kitchen.cloud.yml - There was a problem in the request to: https://168.62.104.99:443/.kitchen.cloud.yml
+[21-04-10 17:46:17] - https://api-qa-mika.nokia.com/ - .kick - There was a problem in the request to: https://168.62.104.99:443/.kick
+[21-04-10 17:46:17] - https://api-qa-mika.nokia.com/ - .last_cover_stats - There was a problem in the request to: https://168.62.104.99:443/.last_cover_stats
+[21-04-10 17:46:18] - https://api-qa-mika.nokia.com/ - .kitchen/ - There was a problem in the request to: https://168.62.104.99:443/.kitchen/
+[21-04-10 17:46:18] - https://api-qa-mika.nokia.com/ - .komodotools - There was a problem in the request to: https://168.62.104.99:443/.komodotools
+[21-04-10 17:46:18] - https://api-qa-mika.nokia.com/ - .komodotools/ - There was a problem in the request to: https://168.62.104.99:443/.komodotools/
+[21-04-10 17:46:19] - https://api-qa-mika.nokia.com/ - .kitchen.yml - There was a problem in the request to: https://168.62.104.99:443/.kitchen.yml
+[21-04-10 17:46:20] - https://api-qa-mika.nokia.com/ - .landscape.yaml - There was a problem in the request to: https://168.62.104.99:443/.landscape.yaml
+[21-04-10 17:46:20] - https://api-qa-mika.nokia.com/ - .lgt_tmp/ - There was a problem in the request to: https://168.62.104.99:443/.lgt_tmp/
+[21-04-10 17:46:20] - https://api-qa-mika.nokia.com/ - .kube/config - There was a problem in the request to: https://168.62.104.99:443/.kube/config
+[21-04-10 17:46:20] - https://api-qa-mika.nokia.com/ - .ksh_history - There was a problem in the request to: https://168.62.104.99:443/.ksh_history
+[21-04-10 17:46:21] - https://api-qa-mika.nokia.com/ - .lein-plugins/ - There was a problem in the request to: https://168.62.104.99:443/.lein-plugins/
+[21-04-10 17:46:21] - https://api-qa-mika.nokia.com/ - .learn - There was a problem in the request to: https://168.62.104.99:443/.learn
+[21-04-10 17:46:22] - https://api-qa-mika.nokia.com/ - .lein-repl-history - There was a problem in the request to: https://168.62.104.99:443/.lein-repl-history
+[21-04-10 17:46:22] - https://api-qa-mika.nokia.com/ - .kitchen.docker.yml - There was a problem in the request to: https://168.62.104.99:443/.kitchen.docker.yml
+[21-04-10 17:46:24] - https://api-qa-mika.nokia.com/ - .lgtm.yam - There was a problem in the request to: https://168.62.104.99:443/.lgtm.yam
+[21-04-10 17:46:28] - https://api-qa-mika.nokia.com/ - .lgtm.yml - There was a problem in the request to: https://168.62.104.99:443/.lgtm.yml
+[21-04-10 17:46:30] - https://api-qa-mika.nokia.com/ - .kitchen.dokken.yml - There was a problem in the request to: https://168.62.104.99:443/.kitchen.dokken.yml
+[21-04-10 17:46:39] - https://api-qa-mika.nokia.com/ - .lib/ - There was a problem in the request to: https://168.62.104.99:443/.lib/
+[21-04-10 17:46:50] - https://api-qa-mika.nokia.com/ - .libs/ - There was a problem in the request to: https://168.62.104.99:443/.libs/
+[21-04-10 17:46:54] - https://api-qa-mika.nokia.com/ - .loadpath - There was a problem in the request to: https://168.62.104.99:443/.loadpath
+[21-04-10 17:46:54] - https://api-qa-mika.nokia.com/ - .listing - There was a problem in the request to: https://168.62.104.99:443/.listing
+[21-04-10 17:46:54] - https://api-qa-mika.nokia.com/ - .local/ - There was a problem in the request to: https://168.62.104.99:443/.local/
+[21-04-10 17:46:54] - https://api-qa-mika.nokia.com/ - .localeapp/ - There was a problem in the request to: https://168.62.104.99:443/.localeapp/
+[21-04-10 17:46:54] - https://api-qa-mika.nokia.com/ - .lighttpd.conf - There was a problem in the request to: https://168.62.104.99:443/.lighttpd.conf
+[21-04-10 17:46:55] - https://api-qa-mika.nokia.com/ - .localsettings.php.swp - There was a problem in the request to: https://168.62.104.99:443/.localsettings.php.swp
+[21-04-10 17:46:58] - https://api-qa-mika.nokia.com/ - .listings - There was a problem in the request to: https://168.62.104.99:443/.listings
+[21-04-10 17:46:58] - https://api-qa-mika.nokia.com/ - .lock - There was a problem in the request to: https://168.62.104.99:443/.lock
+[21-04-10 17:46:59] - https://api-qa-mika.nokia.com/ - .log - There was a problem in the request to: https://168.62.104.99:443/.log
+[21-04-10 17:46:59] - https://api-qa-mika.nokia.com/ - .login - There was a problem in the request to: https://168.62.104.99:443/.login
+[21-04-10 17:46:59] - https://api-qa-mika.nokia.com/ - .login_conf - There was a problem in the request to: https://168.62.104.99:443/.login_conf
+[21-04-10 17:47:00] - https://api-qa-mika.nokia.com/ - .localcache/ - There was a problem in the request to: https://168.62.104.99:443/.localcache/
+[21-04-10 17:47:01] - https://api-qa-mika.nokia.com/ - .luacheckrc - There was a problem in the request to: https://168.62.104.99:443/.luacheckrc
+[21-04-10 17:47:01] - https://api-qa-mika.nokia.com/ - .luna/user_info.json - There was a problem in the request to: https://168.62.104.99:443/.luna/user_info.json
+[21-04-10 17:47:04] - https://api-qa-mika.nokia.com/ - .macos - There was a problem in the request to: https://168.62.104.99:443/.macos
+[21-04-10 17:47:04] - https://api-qa-mika.nokia.com/ - .lock-wscript - There was a problem in the request to: https://168.62.104.99:443/.lock-wscript
+[21-04-10 17:47:05] - https://api-qa-mika.nokia.com/ - .log.txt - There was a problem in the request to: https://168.62.104.99:443/.log.txt
+[21-04-10 17:47:06] - https://api-qa-mika.nokia.com/ - .logout - There was a problem in the request to: https://168.62.104.99:443/.logout
+[21-04-10 17:47:07] - https://api-qa-mika.nokia.com/ - .luna_manager/luna-manager.log - There was a problem in the request to: https://168.62.104.99:443/.luna_manager/luna-manager.log
+[21-04-10 17:47:08] - https://api-qa-mika.nokia.com/ - .lynx_cookies - There was a problem in the request to: https://168.62.104.99:443/.lynx_cookies
+[21-04-10 17:47:08] - https://api-qa-mika.nokia.com/ - .local - There was a problem in the request to: https://168.62.104.99:443/.local
+[21-04-10 17:47:09] - https://api-qa-mika.nokia.com/ - .localhistory/ - There was a problem in the request to: https://168.62.104.99:443/.localhistory/
+[21-04-10 17:47:09] - https://api-qa-mika.nokia.com/ - .magnolia - There was a problem in the request to: https://168.62.104.99:443/.magnolia
+[21-04-10 17:47:09] - https://api-qa-mika.nokia.com/ - .luacov - There was a problem in the request to: https://168.62.104.99:443/.luacov
+[21-04-10 17:47:11] - https://api-qa-mika.nokia.com/ - .magentointel-cache/ - There was a problem in the request to: https://168.62.104.99:443/.magentointel-cache/
+[21-04-10 17:47:13] - https://api-qa-mika.nokia.com/ - .m/ - There was a problem in the request to: https://168.62.104.99:443/.m/
+[21-04-10 17:47:14] - https://api-qa-mika.nokia.com/ - .lvimrc - There was a problem in the request to: https://168.62.104.99:443/.lvimrc
+[21-04-10 17:47:21] - https://api-qa-mika.nokia.com/ - .magnolia/installer/start - There was a problem in the request to: https://168.62.104.99:443/.magnolia/installer/start
+[21-04-10 17:47:21] - https://api-qa-mika.nokia.com/ - .mail_aliases - There was a problem in the request to: https://168.62.104.99:443/.mail_aliases
+[21-04-10 17:47:31] - https://api-qa-mika.nokia.com/ - .mailmap - There was a problem in the request to: https://168.62.104.99:443/.mailmap
+[21-04-10 17:47:35] - https://api-qa-mika.nokia.com/ - .mailrc - There was a problem in the request to: https://168.62.104.99:443/.mailrc
+[21-04-10 17:47:35] - https://api-qa-mika.nokia.com/ - .markdownlint.json - There was a problem in the request to: https://168.62.104.99:443/.markdownlint.json
+[21-04-10 17:47:36] - https://api-qa-mika.nokia.com/ - .masterpages/ - There was a problem in the request to: https://168.62.104.99:443/.masterpages/
+[21-04-10 17:47:36] - https://api-qa-mika.nokia.com/ - .maintenance - There was a problem in the request to: https://168.62.104.99:443/.maintenance
+[21-04-10 17:47:36] - https://api-qa-mika.nokia.com/ - .maintenance2 - There was a problem in the request to: https://168.62.104.99:443/.maintenance2
+[21-04-10 17:47:39] - https://api-qa-mika.nokia.com/ - .mc/ - There was a problem in the request to: https://168.62.104.99:443/.mc/
+[21-04-10 17:47:39] - https://api-qa-mika.nokia.com/ - .mdb - There was a problem in the request to: https://168.62.104.99:443/.mdb
+[21-04-10 17:47:40] - https://api-qa-mika.nokia.com/ - .memdump - There was a problem in the request to: https://168.62.104.99:443/.memdump
+[21-04-10 17:47:40] - https://api-qa-mika.nokia.com/ - .mergesources.yml - There was a problem in the request to: https://168.62.104.99:443/.mergesources.yml
+[21-04-10 17:47:41] - https://api-qa-mika.nokia.com/ - .merlin - There was a problem in the request to: https://168.62.104.99:443/.merlin
+[21-04-10 17:47:41] - https://api-qa-mika.nokia.com/ - .members - There was a problem in the request to: https://168.62.104.99:443/.members
+[21-04-10 17:47:42] - https://api-qa-mika.nokia.com/ - .meta - There was a problem in the request to: https://168.62.104.99:443/.meta
+[21-04-10 17:47:42] - https://api-qa-mika.nokia.com/ - .metadata - There was a problem in the request to: https://168.62.104.99:443/.metadata
+[21-04-10 17:47:43] - https://api-qa-mika.nokia.com/ - .mc - There was a problem in the request to: https://168.62.104.99:443/.mc
+[21-04-10 17:47:46] - https://api-qa-mika.nokia.com/ - .metadata/ - There was a problem in the request to: https://168.62.104.99:443/.metadata/
+[21-04-10 17:47:46] - https://api-qa-mika.nokia.com/ - .meteor/ - There was a problem in the request to: https://168.62.104.99:443/.meteor/
+[21-04-10 17:47:46] - https://api-qa-mika.nokia.com/ - .metrics - There was a problem in the request to: https://168.62.104.99:443/.metrics
+[21-04-10 17:47:47] - https://api-qa-mika.nokia.com/ - .mfractor/ - There was a problem in the request to: https://168.62.104.99:443/.mfractor/
+[21-04-10 17:47:49] - https://api-qa-mika.nokia.com/ - .modgit/ - There was a problem in the request to: https://168.62.104.99:443/.modgit/
+[21-04-10 17:47:49] - https://api-qa-mika.nokia.com/ - .modman - There was a problem in the request to: https://168.62.104.99:443/.modman
+[21-04-10 17:47:49] - https://api-qa-mika.nokia.com/ - .modman/ - There was a problem in the request to: https://168.62.104.99:443/.modman/
+[21-04-10 17:47:50] - https://api-qa-mika.nokia.com/ - .modules - There was a problem in the request to: https://168.62.104.99:443/.modules
+[21-04-10 17:47:51] - https://api-qa-mika.nokia.com/ - .mongorc.js - There was a problem in the request to: https://168.62.104.99:443/.mongorc.js
+[21-04-10 17:47:51] - https://api-qa-mika.nokia.com/ - .mono/ - There was a problem in the request to: https://168.62.104.99:443/.mono/
+[21-04-10 17:47:53] - https://api-qa-mika.nokia.com/ - .mozilla - There was a problem in the request to: https://168.62.104.99:443/.mozilla
+[21-04-10 17:47:54] - https://api-qa-mika.nokia.com/ - .mozilla/ - There was a problem in the request to: https://168.62.104.99:443/.mozilla/
+[21-04-10 17:47:55] - https://api-qa-mika.nokia.com/ - .mozilla/firefox/logins.json - There was a problem in the request to: https://168.62.104.99:443/.mozilla/firefox/logins.json
+[21-04-10 17:48:02] - https://api-qa-mika.nokia.com/ - .mp3 - There was a problem in the request to: https://168.62.104.99:443/.mp3
+[21-04-10 17:48:03] - https://api-qa-mika.nokia.com/ - .mr.developer.cfg - There was a problem in the request to: https://168.62.104.99:443/.mr.developer.cfg
+[21-04-10 17:48:12] - https://api-qa-mika.nokia.com/ - .msi - There was a problem in the request to: https://168.62.104.99:443/.msi
+[21-04-10 17:48:16] - https://api-qa-mika.nokia.com/ - .mtj.tmp/ - There was a problem in the request to: https://168.62.104.99:443/.mtj.tmp/
+[21-04-10 17:48:17] - https://api-qa-mika.nokia.com/ - .muttrc - There was a problem in the request to: https://168.62.104.99:443/.muttrc
+[21-04-10 17:48:17] - https://api-qa-mika.nokia.com/ - .mvn/timing.properties - There was a problem in the request to: https://168.62.104.99:443/.mvn/timing.properties
+[21-04-10 17:48:17] - https://api-qa-mika.nokia.com/ - .mvn/wrapper/maven-wrapper.jar - There was a problem in the request to: https://168.62.104.99:443/.mvn/wrapper/maven-wrapper.jar
+[21-04-10 17:48:19] - https://api-qa-mika.nokia.com/ - .msync.yml - There was a problem in the request to: https://168.62.104.99:443/.msync.yml
+[21-04-10 17:48:20] - https://api-qa-mika.nokia.com/ - .mweval_history - There was a problem in the request to: https://168.62.104.99:443/.mweval_history
+[21-04-10 17:48:20] - https://api-qa-mika.nokia.com/ - .mwsql_history - There was a problem in the request to: https://168.62.104.99:443/.mwsql_history
+[21-04-10 17:48:21] - https://api-qa-mika.nokia.com/ - .mypy_cache/ - There was a problem in the request to: https://168.62.104.99:443/.mypy_cache/
+[21-04-10 17:48:21] - https://api-qa-mika.nokia.com/ - .mysql.txt - There was a problem in the request to: https://168.62.104.99:443/.mysql.txt
+[21-04-10 17:48:22] - https://api-qa-mika.nokia.com/ - .mysql_history - There was a problem in the request to: https://168.62.104.99:443/.mysql_history
+[21-04-10 17:48:23] - https://api-qa-mika.nokia.com/ - .nakignore - There was a problem in the request to: https://168.62.104.99:443/.nakignore
+[21-04-10 17:48:24] - https://api-qa-mika.nokia.com/ - .name - There was a problem in the request to: https://168.62.104.99:443/.name
+[21-04-10 17:48:24] - https://api-qa-mika.nokia.com/ - .navigation/ - There was a problem in the request to: https://168.62.104.99:443/.navigation/
+[21-04-10 17:48:27] - https://api-qa-mika.nokia.com/ - .nb-gradle/ - There was a problem in the request to: https://168.62.104.99:443/.nb-gradle/
+[21-04-10 17:48:27] - https://api-qa-mika.nokia.com/ - .nbgrader.log - There was a problem in the request to: https://168.62.104.99:443/.nbgrader.log
+[21-04-10 17:48:30] - https://api-qa-mika.nokia.com/ - .nano_history - There was a problem in the request to: https://168.62.104.99:443/.nano_history
+[21-04-10 17:48:30] - https://api-qa-mika.nokia.com/ - .next - There was a problem in the request to: https://168.62.104.99:443/.next
+[21-04-10 17:48:30] - https://api-qa-mika.nokia.com/ - .nfs - There was a problem in the request to: https://168.62.104.99:443/.nfs
+[21-04-10 17:48:30] - https://api-qa-mika.nokia.com/ - .netrc - There was a problem in the request to: https://168.62.104.99:443/.netrc
+[21-04-10 17:48:31] - https://api-qa-mika.nokia.com/ - .nia.cache - There was a problem in the request to: https://168.62.104.99:443/.nia.cache
+[21-04-10 17:48:32] - https://api-qa-mika.nokia.com/ - .ninja_deps - There was a problem in the request to: https://168.62.104.99:443/.ninja_deps
+[21-04-10 17:48:32] - https://api-qa-mika.nokia.com/ - .nlia.cache - There was a problem in the request to: https://168.62.104.99:443/.nlia.cache
+[21-04-10 17:48:33] - https://api-qa-mika.nokia.com/ - .ninja_log - There was a problem in the request to: https://168.62.104.99:443/.ninja_log

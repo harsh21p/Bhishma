@@ -1,0 +1,23 @@
+
+[21-03-12 09:57:39] - http://smtp.odisha.gov.in/ - CFIDE/Administrator/startstop.html - There was a problem in the request to: http://117.239.112.209:80/CFIDE/Administrator/startstop.html
+[21-03-12 09:57:39] - http://smtp.odisha.gov.in/ - CFIDE/Administrator/ - There was a problem in the request to: http://117.239.112.209:80/CFIDE/Administrator/
+[21-03-12 09:57:39] - http://smtp.odisha.gov.in/ - CFIDE/administrator/ - There was a problem in the request to: http://117.239.112.209:80/CFIDE/administrator/
+[21-03-12 09:57:40] - http://smtp.odisha.gov.in/ - MyAdmin/scripts/setup.php - There was a problem in the request to: http://117.239.112.209:80/MyAdmin/scripts/setup.php
+[21-03-12 09:57:42] - http://smtp.odisha.gov.in/ - admin-console/ - There was a problem in the request to: http://117.239.112.209:80/admin-console/
+[21-03-12 09:57:49] - http://smtp.odisha.gov.in/ - myadminjs - Cannot connect to: smtp.odisha.gov.in:80
+[21-03-12 09:57:49] - http://smtp.odisha.gov.in/ - myadminaspx - Cannot connect to: smtp.odisha.gov.in:80
+[21-03-12 09:57:49] - http://smtp.odisha.gov.in/ - myadminhtml - Cannot connect to: smtp.odisha.gov.in:80
+[21-03-12 09:57:49] - http://smtp.odisha.gov.in/ - myadminjsp - Cannot connect to: smtp.odisha.gov.in:80
+[21-03-12 09:57:49] - http://smtp.odisha.gov.in/ - myadmin/ - Cannot connect to: smtp.odisha.gov.in:80
+[21-03-12 09:57:53] - http://smtp.odisha.gov.in/ - mysql/web/ - Cannot connect to: smtp.odisha.gov.in:80
+[21-03-12 09:57:55] - http://smtp.odisha.gov.in/ - cfide/administrator/index.cfm - There was a problem in the request to: http://117.239.112.209:80/cfide/administrator/index.cfm
+[21-03-12 09:58:14] - http://smtp.odisha.gov.in/ - invoker/JMXInvokerServlet - There was a problem in the request to: http://117.239.112.209:80/invoker/JMXInvokerServlet
+[21-03-12 09:58:15] - http://smtp.odisha.gov.in/ - jmx-console/ - There was a problem in the request to: http://117.239.112.209:80/jmx-console/
+[21-03-12 09:58:15] - http://smtp.odisha.gov.in/ - jmx-console/HtmlAdaptor - There was a problem in the request to: http://117.239.112.209:80/jmx-console/HtmlAdaptor
+[21-03-12 09:58:15] - http://smtp.odisha.gov.in/ - jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo - There was a problem in the request to: http://117.239.112.209:80/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo
+[21-03-12 09:58:32] - http://smtp.odisha.gov.in/ - myadmin/scripts/setup.php - There was a problem in the request to: http://117.239.112.209:80/myadmin/scripts/setup.php
+[21-03-12 09:58:39] - http://smtp.odisha.gov.in/ - pma/scripts/setup.php - There was a problem in the request to: http://117.239.112.209:80/pma/scripts/setup.php
+[21-03-12 09:58:46] - http://smtp.odisha.gov.in/ - web-console/ - There was a problem in the request to: http://117.239.112.209:80/web-console/
+[21-03-12 09:58:46] - http://smtp.odisha.gov.in/ - web-console/status?full=true - There was a problem in the request to: http://117.239.112.209:80/web-console/status?full=true
+[21-03-12 09:58:47] - http://smtp.odisha.gov.in/ - web-console/ServerInfo.jsp - There was a problem in the request to: http://117.239.112.209:80/web-console/ServerInfo.jsp
+[21-03-12 09:58:47] - http://smtp.odisha.gov.in/ - web-console/Invoker - There was a problem in the request to: http://117.239.112.209:80/web-console/Invoker

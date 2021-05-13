@@ -1,0 +1,105 @@
+
+[21-04-12 08:51:01] - https://52arty-ws-007v.afrc.af.mil/ - phpinfo.php - Cannot connect to: 52arty-ws-007v.afrc.af.mil:443
+[21-04-12 08:51:01] - https://52arty-ws-007v.afrc.af.mil/ - Uploads - Cannot connect to: 52arty-ws-007v.afrc.af.mil:443
+[21-04-12 08:51:01] - https://52arty-ws-007v.afrc.af.mil/ - images - Cannot connect to: 52arty-ws-007v.afrc.af.mil:443
+[21-04-12 08:54:53] - https://ajo.army.mil/ - accounts.aspx - There was a problem in the request to: https://18.214.34.171:443/accounts.aspx
+[21-04-12 08:54:53] - https://ajo.army.mil/ - _data/ - There was a problem in the request to: https://18.214.34.171:443/_data/
+[21-04-12 08:54:53] - https://ajo.army.mil/ - wp-json - There was a problem in the request to: https://18.214.34.171:443/wp-json
+[21-04-12 08:54:53] - https://ajo.army.mil/ - upload - There was a problem in the request to: https://18.214.34.171:443/upload
+[21-04-12 08:54:53] - https://ajo.army.mil/ - DB - There was a problem in the request to: https://18.214.34.171:443/DB
+[21-04-12 08:54:53] - https://ajo.army.mil/ - data - There was a problem in the request to: https://18.214.34.171:443/data
+[21-04-12 08:54:53] - https://ajo.army.mil/ - DATA - There was a problem in the request to: https://18.214.34.171:443/DATA
+[21-04-12 08:54:53] - https://ajo.army.mil/ - UPLOADS - There was a problem in the request to: https://18.214.34.171:443/UPLOADS
+[21-04-12 08:54:55] - https://ajo.army.mil/ - accounts - There was a problem in the request to: https://18.214.34.171:443/accounts
+[21-04-12 08:54:55] - https://ajo.army.mil/ - JS - There was a problem in the request to: https://18.214.34.171:443/JS
+[21-04-12 08:54:56] - https://ajo.army.mil/ - accounts.js - There was a problem in the request to: https://18.214.34.171:443/accounts.js
+[21-04-12 08:54:56] - https://ajo.army.mil/ - accounts.jsp - There was a problem in the request to: https://18.214.34.171:443/accounts.jsp
+[21-04-12 08:54:57] - https://ajo.army.mil/ - Uploads - There was a problem in the request to: https://18.214.34.171:443/Uploads
+[21-04-12 08:54:57] - https://ajo.army.mil/ - Database_Backup/ - There was a problem in the request to: https://18.214.34.171:443/Database_Backup/
+[21-04-12 08:54:58] - https://ajo.army.mil/ - Data - There was a problem in the request to: https://18.214.34.171:443/Data
+[21-04-12 08:54:58] - https://ajo.army.mil/ - accounts.sql - There was a problem in the request to: https://18.214.34.171:443/accounts.sql
+[21-04-12 08:54:58] - https://ajo.army.mil/ - js - There was a problem in the request to: https://18.214.34.171:443/js
+[21-04-12 08:54:58] - https://ajo.army.mil/ - app/etc/ - There was a problem in the request to: https://18.214.34.171:443/app/etc/
+[21-04-12 08:54:58] - https://ajo.army.mil/ - MySQLAdmin - There was a problem in the request to: https://18.214.34.171:443/MySQLAdmin
+[21-04-12 08:54:58] - https://ajo.army.mil/ - app/config/database.yml.sqlite3 - There was a problem in the request to: https://18.214.34.171:443/app/config/database.yml.sqlite3
+[21-04-12 08:54:58] - https://ajo.army.mil/ - Upload - There was a problem in the request to: https://18.214.34.171:443/Upload
+[21-04-12 08:54:58] - https://ajo.army.mil/ - MyAdmin/ - There was a problem in the request to: https://18.214.34.171:443/MyAdmin/
+[21-04-12 08:54:58] - https://ajo.army.mil/ - uploads - There was a problem in the request to: https://18.214.34.171:443/uploads
+[21-04-12 08:54:59] - https://ajo.army.mil/ - Images - There was a problem in the request to: https://18.214.34.171:443/Images
+[21-04-12 08:54:59] - https://ajo.army.mil/ - IMAGES - There was a problem in the request to: https://18.214.34.171:443/IMAGES
+[21-04-12 08:54:59] - https://ajo.army.mil/ - Database_Administration/ - There was a problem in the request to: https://18.214.34.171:443/Database_Administration/
+[21-04-12 08:55:00] - https://ajo.army.mil/ - UPLOAD - There was a problem in the request to: https://18.214.34.171:443/UPLOAD
+[21-04-12 08:55:00] - https://ajo.army.mil/ - MySQLadmin - There was a problem in the request to: https://18.214.34.171:443/MySQLadmin
+[21-04-12 08:55:00] - https://ajo.army.mil/ - images - There was a problem in the request to: https://18.214.34.171:443/images
+[21-04-12 08:55:00] - https://ajo.army.mil/ - app/src - There was a problem in the request to: https://18.214.34.171:443/app/src
+[21-04-12 08:55:36] - https://ajo.army.mil/ - attachment.php - There was a problem in the request to: https://18.214.34.171:443/attachment.php
+[21-04-12 08:55:36] - https://ajo.army.mil/ - attachment.aspx - There was a problem in the request to: https://18.214.34.171:443/attachment.aspx
+[21-04-12 08:55:36] - https://ajo.army.mil/ - attachment - There was a problem in the request to: https://18.214.34.171:443/attachment
+[21-04-12 08:55:36] - https://ajo.army.mil/ - attachment.js - There was a problem in the request to: https://18.214.34.171:443/attachment.js
+[21-04-12 08:55:36] - https://ajo.army.mil/ - bitrix/php_interface/dbconn.php2 - There was a problem in the request to: https://18.214.34.171:443/bitrix/php_interface/dbconn.php2
+[21-04-12 08:55:36] - https://ajo.army.mil/ - attachment.jsp - There was a problem in the request to: https://18.214.34.171:443/attachment.jsp
+[21-04-12 08:55:36] - https://ajo.army.mil/ - bitrix/php_interface/dbconn.php - There was a problem in the request to: https://18.214.34.171:443/bitrix/php_interface/dbconn.php
+[21-04-12 08:55:36] - https://ajo.army.mil/ - bitrix/modules/main/admin/restore.php - There was a problem in the request to: https://18.214.34.171:443/bitrix/modules/main/admin/restore.php
+[21-04-12 09:00:19] - https://applicationstest.navsup.navy.mil/ - accounts.php - Cannot connect to: applicationstest.navsup.navy.mil:443
+[21-04-12 09:00:19] - https://applicationstest.navsup.navy.mil/ - Data - Cannot connect to: applicationstest.navsup.navy.mil:443
+[21-04-12 09:00:19] - https://applicationstest.navsup.navy.mil/ - MySQLAdmin - Cannot connect to: applicationstest.navsup.navy.mil:443
+[21-04-12 09:00:19] - https://applicationstest.navsup.navy.mil/ - info.php - Cannot connect to: applicationstest.navsup.navy.mil:443
+[21-04-12 09:00:19] - https://applicationstest.navsup.navy.mil/ - MyAdmin/ - Cannot connect to: applicationstest.navsup.navy.mil:443
+[21-04-12 09:00:19] - https://applicationstest.navsup.navy.mil/ - data - Cannot connect to: applicationstest.navsup.navy.mil:443
+[21-04-12 09:00:19] - https://applicationstest.navsup.navy.mil/ - accounts - Cannot connect to: applicationstest.navsup.navy.mil:443
+[21-04-12 09:00:19] - https://applicationstest.navsup.navy.mil/ - Database_Administration/ - Cannot connect to: applicationstest.navsup.navy.mil:443
+[21-04-12 09:00:19] - https://applicationstest.navsup.navy.mil/ - UPLOAD - Cannot connect to: applicationstest.navsup.navy.mil:443
+[21-04-12 09:00:19] - https://applicationstest.navsup.navy.mil/ - Upload - Cannot connect to: applicationstest.navsup.navy.mil:443
+[21-04-12 09:00:19] - https://applicationstest.navsup.navy.mil/ - 1.php - Cannot connect to: applicationstest.navsup.navy.mil:443
+[21-04-12 09:00:19] - https://applicationstest.navsup.navy.mil/ - upload - Cannot connect to: applicationstest.navsup.navy.mil:443
+[21-04-12 09:00:19] - https://applicationstest.navsup.navy.mil/ - DATA - Cannot connect to: applicationstest.navsup.navy.mil:443
+[21-04-12 09:00:19] - https://applicationstest.navsup.navy.mil/ - Images - Cannot connect to: applicationstest.navsup.navy.mil:443
+[21-04-12 09:00:19] - https://applicationstest.navsup.navy.mil/ - JS - Cannot connect to: applicationstest.navsup.navy.mil:443
+[21-04-12 09:00:20] - https://applicationstest.navsup.navy.mil/ - attachment.jsp - Cannot connect to: applicationstest.navsup.navy.mil:443
+[21-04-12 09:00:20] - https://applicationstest.navsup.navy.mil/ - attachment.aspx - Cannot connect to: applicationstest.navsup.navy.mil:443
+[21-04-12 09:01:05] - https://aqua.el.erdc.dren.mil/ - upload - Cannot connect to: aqua.el.erdc.dren.mil:443
+[21-04-12 09:02:30] - https://arlwww.navydsrc.hpc.mil/ - phpinfo.php - Cannot connect to: arlwww.navydsrc.hpc.mil:443
+[21-04-12 09:04:05] - https://armyjuniorofficer.army.mil/ - uploads - There was a problem in the request to: https://18.214.34.171:443/uploads
+[21-04-12 09:04:05] - https://armyjuniorofficer.army.mil/ - DATA - There was a problem in the request to: https://18.214.34.171:443/DATA
+[21-04-12 09:04:05] - https://armyjuniorofficer.army.mil/ - UPLOAD - There was a problem in the request to: https://18.214.34.171:443/UPLOAD
+[21-04-12 09:04:05] - https://armyjuniorofficer.army.mil/ - upload - There was a problem in the request to: https://18.214.34.171:443/upload
+[21-04-12 09:04:05] - https://armyjuniorofficer.army.mil/ - accounts - There was a problem in the request to: https://18.214.34.171:443/accounts
+[21-04-12 09:04:05] - https://armyjuniorofficer.army.mil/ - Database_Backup/ - There was a problem in the request to: https://18.214.34.171:443/Database_Backup/
+[21-04-12 09:04:05] - https://armyjuniorofficer.army.mil/ - accounts.jsp - There was a problem in the request to: https://18.214.34.171:443/accounts.jsp
+[21-04-12 09:04:05] - https://armyjuniorofficer.army.mil/ - accounts.aspx - There was a problem in the request to: https://18.214.34.171:443/accounts.aspx
+[21-04-12 09:04:06] - https://armyjuniorofficer.army.mil/ - accounts.js - There was a problem in the request to: https://18.214.34.171:443/accounts.js
+[21-04-12 09:04:06] - https://armyjuniorofficer.army.mil/ - Uploads - There was a problem in the request to: https://18.214.34.171:443/Uploads
+[21-04-12 09:04:07] - https://armyjuniorofficer.army.mil/ - Upload - There was a problem in the request to: https://18.214.34.171:443/Upload
+[21-04-12 09:04:07] - https://armyjuniorofficer.army.mil/ - Data - There was a problem in the request to: https://18.214.34.171:443/Data
+[21-04-12 09:04:08] - https://armyjuniorofficer.army.mil/ - _data/ - There was a problem in the request to: https://18.214.34.171:443/_data/
+[21-04-12 09:04:08] - https://armyjuniorofficer.army.mil/ - accounts.sql - There was a problem in the request to: https://18.214.34.171:443/accounts.sql
+[21-04-12 09:04:08] - https://armyjuniorofficer.army.mil/ - app/config/database.yml.sqlite3 - There was a problem in the request to: https://18.214.34.171:443/app/config/database.yml.sqlite3
+[21-04-12 09:04:09] - https://armyjuniorofficer.army.mil/ - MyAdmin/ - There was a problem in the request to: https://18.214.34.171:443/MyAdmin/
+[21-04-12 09:04:09] - https://armyjuniorofficer.army.mil/ - JS - There was a problem in the request to: https://18.214.34.171:443/JS
+[21-04-12 09:04:09] - https://armyjuniorofficer.army.mil/ - UPLOADS - There was a problem in the request to: https://18.214.34.171:443/UPLOADS
+[21-04-12 09:04:09] - https://armyjuniorofficer.army.mil/ - js - There was a problem in the request to: https://18.214.34.171:443/js
+[21-04-12 09:04:09] - https://armyjuniorofficer.army.mil/ - Images - There was a problem in the request to: https://18.214.34.171:443/Images
+[21-04-12 09:04:10] - https://armyjuniorofficer.army.mil/ - MySQLAdmin - There was a problem in the request to: https://18.214.34.171:443/MySQLAdmin
+[21-04-12 09:04:10] - https://armyjuniorofficer.army.mil/ - app/etc/ - There was a problem in the request to: https://18.214.34.171:443/app/etc/
+[21-04-12 09:04:11] - https://armyjuniorofficer.army.mil/ - MySQLadmin - There was a problem in the request to: https://18.214.34.171:443/MySQLadmin
+[21-04-12 09:04:11] - https://armyjuniorofficer.army.mil/ - app/src - There was a problem in the request to: https://18.214.34.171:443/app/src
+[21-04-12 09:04:12] - https://armyjuniorofficer.army.mil/ - images - There was a problem in the request to: https://18.214.34.171:443/images
+[21-04-12 09:04:12] - https://armyjuniorofficer.army.mil/ - Database_Administration/ - There was a problem in the request to: https://18.214.34.171:443/Database_Administration/
+[21-04-12 09:04:12] - https://armyjuniorofficer.army.mil/ - DB - There was a problem in the request to: https://18.214.34.171:443/DB
+[21-04-12 09:04:12] - https://armyjuniorofficer.army.mil/ - data - There was a problem in the request to: https://18.214.34.171:443/data
+[21-04-12 09:04:13] - https://armyjuniorofficer.army.mil/ - IMAGES - There was a problem in the request to: https://18.214.34.171:443/IMAGES
+[21-04-12 09:04:13] - https://armyjuniorofficer.army.mil/ - attachment.aspx - There was a problem in the request to: https://18.214.34.171:443/attachment.aspx
+[21-04-12 09:04:48] - https://armyjuniorofficer.army.mil/ - attachment.js - There was a problem in the request to: https://18.214.34.171:443/attachment.js
+[21-04-12 09:04:48] - https://armyjuniorofficer.army.mil/ - attachment - There was a problem in the request to: https://18.214.34.171:443/attachment
+[21-04-12 09:04:48] - https://armyjuniorofficer.army.mil/ - bitrix/php_interface/dbconn.php2 - There was a problem in the request to: https://18.214.34.171:443/bitrix/php_interface/dbconn.php2
+[21-04-12 09:04:48] - https://armyjuniorofficer.army.mil/ - bitrix/php_interface/dbconn.php - There was a problem in the request to: https://18.214.34.171:443/bitrix/php_interface/dbconn.php
+[21-04-12 09:04:48] - https://armyjuniorofficer.army.mil/ - attachment.jsp - There was a problem in the request to: https://18.214.34.171:443/attachment.jsp
+[21-04-12 09:04:49] - https://armyjuniorofficer.army.mil/ - bitrix/modules/main/admin/restore.php - There was a problem in the request to: https://18.214.34.171:443/bitrix/modules/main/admin/restore.php
+[21-04-12 09:05:07] - https://armymedicine.health.mil/ - Uploads - Cannot connect to: armymedicine.health.mil:443
+[21-04-12 09:05:32] - https://arty-as-006v.afrc.af.mil/ - Uploads - Cannot connect to: arty-as-006v.afrc.af.mil:443
+[21-04-12 09:05:32] - https://arty-as-006v.afrc.af.mil/ - UPLOAD - Cannot connect to: arty-as-006v.afrc.af.mil:443
+[21-04-12 09:05:58] - https://asimis.tinker.af.mil/ - Images - Cannot connect to: asimis.tinker.af.mil:443
+[21-04-12 09:05:58] - https://asimis.tinker.af.mil/ - accounts.php - Cannot connect to: asimis.tinker.af.mil:443
+[21-04-12 09:06:15] - https://assist1.army.mil/ - info.php - Cannot connect to: assist1.army.mil:443
+[21-04-12 09:06:15] - https://assist1.army.mil/ - IMAGES - Cannot connect to: assist1.army.mil:443
+[21-04-12 09:06:15] - https://assist1.army.mil/ - data - Cannot connect to: assist1.army.mil:443

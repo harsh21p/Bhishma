@@ -1,0 +1,271 @@
+
+[21-04-12 11:43:19] - https://184jayhawks.dodlive.mil/ - Database_Administration/ - There was a problem in the request to: https://104.121.233.173:443/Database_Administration/
+[21-04-12 11:43:36] - https://52arty-ws-007v.afrc.af.mil/ - info.php - Cannot connect to: 52arty-ws-007v.afrc.af.mil:443
+[21-04-12 11:43:36] - https://52arty-ws-007v.afrc.af.mil/ - UPLOAD - Cannot connect to: 52arty-ws-007v.afrc.af.mil:443
+[21-04-12 11:44:18] - https://acm-dev.army.mil/ - Uploads - Cannot connect to: acm-dev.army.mil:443
+[21-04-12 11:48:02] - https://airman.dodlive.mil/ - MySQLadmin - There was a problem in the request to: https://104.121.233.173:443/MySQLadmin
+[21-04-12 11:48:08] - https://airman.dodlive.mil/ - attachment.php - There was a problem in the request to: https://104.121.233.173:443/attachment.php
+[21-04-12 11:48:12] - https://airman.dodlive.mil/ - accounts - There was a problem in the request to: https://104.121.233.173:443/accounts
+[21-04-12 11:55:42] - https://ar-vpn2.ngb.army.mil/ - accounts.aspx - Cannot connect to: ar-vpn2.ngb.army.mil:443
+[21-04-12 11:55:44] - https://ar-vpn2.ngb.army.mil/ - accounts.sql - Cannot connect to: ar-vpn2.ngb.army.mil:443
+[21-04-12 11:56:47] - https://ar-vpn1.ngb.army.mil/ - accounts.html - Cannot connect to: ar-vpn1.ngb.army.mil:443
+[21-04-12 11:56:47] - https://ar-vpn1.ngb.army.mil/ - app/etc/ - Cannot connect to: ar-vpn1.ngb.army.mil:443
+[21-04-12 11:57:14] - https://arap.safety.army.mil/ - UPLOAD - Cannot connect to: arap.safety.army.mil:443
+[21-04-12 11:57:14] - https://arap.safety.army.mil/ - data - Cannot connect to: arap.safety.army.mil:443
+[21-04-12 11:57:14] - https://arap.safety.army.mil/ - Database_Backup/ - Cannot connect to: arap.safety.army.mil:443
+[21-04-12 11:59:29] - https://armyjuniorofficer.army.mil/ - Uploads - There was a problem in the request to: https://18.214.34.171:443/Uploads
+[21-04-12 11:59:29] - https://armyjuniorofficer.army.mil/ - MySQLadmin - There was a problem in the request to: https://18.214.34.171:443/MySQLadmin
+[21-04-12 11:59:29] - https://armyjuniorofficer.army.mil/ - DB - There was a problem in the request to: https://18.214.34.171:443/DB
+[21-04-12 11:59:29] - https://armyjuniorofficer.army.mil/ - images - There was a problem in the request to: https://18.214.34.171:443/images
+[21-04-12 11:59:29] - https://armyjuniorofficer.army.mil/ - upload - There was a problem in the request to: https://18.214.34.171:443/upload
+[21-04-12 11:59:30] - https://armyjuniorofficer.army.mil/ - _data/ - There was a problem in the request to: https://18.214.34.171:443/_data/
+[21-04-12 11:59:31] - https://armyjuniorofficer.army.mil/ - accounts.aspx - There was a problem in the request to: https://18.214.34.171:443/accounts.aspx
+[21-04-12 11:59:31] - https://armyjuniorofficer.army.mil/ - accounts.jsp - There was a problem in the request to: https://18.214.34.171:443/accounts.jsp
+[21-04-12 11:59:31] - https://armyjuniorofficer.army.mil/ - IMAGES - There was a problem in the request to: https://18.214.34.171:443/IMAGES
+[21-04-12 11:59:31] - https://armyjuniorofficer.army.mil/ - accounts - There was a problem in the request to: https://18.214.34.171:443/accounts
+[21-04-12 11:59:31] - https://armyjuniorofficer.army.mil/ - accounts.js - There was a problem in the request to: https://18.214.34.171:443/accounts.js
+[21-04-12 11:59:31] - https://armyjuniorofficer.army.mil/ - js - There was a problem in the request to: https://18.214.34.171:443/js
+[21-04-12 11:59:31] - https://armyjuniorofficer.army.mil/ - MyAdmin/ - There was a problem in the request to: https://18.214.34.171:443/MyAdmin/
+[21-04-12 11:59:32] - https://armyjuniorofficer.army.mil/ - data - There was a problem in the request to: https://18.214.34.171:443/data
+[21-04-12 11:59:32] - https://armyjuniorofficer.army.mil/ - accounts.sql - There was a problem in the request to: https://18.214.34.171:443/accounts.sql
+[21-04-12 11:59:32] - https://armyjuniorofficer.army.mil/ - Data - There was a problem in the request to: https://18.214.34.171:443/Data
+[21-04-12 11:59:32] - https://armyjuniorofficer.army.mil/ - JS - There was a problem in the request to: https://18.214.34.171:443/JS
+[21-04-12 11:59:32] - https://armyjuniorofficer.army.mil/ - Database_Administration/ - There was a problem in the request to: https://18.214.34.171:443/Database_Administration/
+[21-04-12 11:59:32] - https://armyjuniorofficer.army.mil/ - DATA - There was a problem in the request to: https://18.214.34.171:443/DATA
+[21-04-12 11:59:34] - https://armyjuniorofficer.army.mil/ - app/config/database.yml.sqlite3 - There was a problem in the request to: https://18.214.34.171:443/app/config/database.yml.sqlite3
+[21-04-12 11:59:34] - https://armyjuniorofficer.army.mil/ - app/etc/ - There was a problem in the request to: https://18.214.34.171:443/app/etc/
+[21-04-12 11:59:34] - https://armyjuniorofficer.army.mil/ - MySQLAdmin - There was a problem in the request to: https://18.214.34.171:443/MySQLAdmin
+[21-04-12 11:59:35] - https://armyjuniorofficer.army.mil/ - UPLOADS - There was a problem in the request to: https://18.214.34.171:443/UPLOADS
+[21-04-12 11:59:35] - https://armyjuniorofficer.army.mil/ - Upload - There was a problem in the request to: https://18.214.34.171:443/Upload
+[21-04-12 11:59:35] - https://armyjuniorofficer.army.mil/ - UPLOAD - There was a problem in the request to: https://18.214.34.171:443/UPLOAD
+[21-04-12 11:59:35] - https://armyjuniorofficer.army.mil/ - Images - There was a problem in the request to: https://18.214.34.171:443/Images
+[21-04-12 11:59:36] - https://armyjuniorofficer.army.mil/ - Database_Backup/ - There was a problem in the request to: https://18.214.34.171:443/Database_Backup/
+[21-04-12 11:59:36] - https://armyjuniorofficer.army.mil/ - uploads - There was a problem in the request to: https://18.214.34.171:443/uploads
+[21-04-12 11:59:36] - https://armyjuniorofficer.army.mil/ - app/src - There was a problem in the request to: https://18.214.34.171:443/app/src
+[21-04-12 11:59:38] - https://armyjuniorofficer.army.mil/ - attachment.aspx - There was a problem in the request to: https://18.214.34.171:443/attachment.aspx
+[21-04-12 12:00:12] - https://armyjuniorofficer.army.mil/ - attachment - There was a problem in the request to: https://18.214.34.171:443/attachment
+[21-04-12 12:00:12] - https://armyjuniorofficer.army.mil/ - attachment.js - There was a problem in the request to: https://18.214.34.171:443/attachment.js
+[21-04-12 12:00:13] - https://armyjuniorofficer.army.mil/ - bitrix/php_interface/dbconn.php - There was a problem in the request to: https://18.214.34.171:443/bitrix/php_interface/dbconn.php
+[21-04-12 12:00:13] - https://armyjuniorofficer.army.mil/ - bitrix/modules/main/admin/restore.php - There was a problem in the request to: https://18.214.34.171:443/bitrix/modules/main/admin/restore.php
+[21-04-12 12:00:13] - https://armyjuniorofficer.army.mil/ - attachment.jsp - There was a problem in the request to: https://18.214.34.171:443/attachment.jsp
+[21-04-12 12:00:13] - https://armyjuniorofficer.army.mil/ - bitrix/php_interface/dbconn.php2 - There was a problem in the request to: https://18.214.34.171:443/bitrix/php_interface/dbconn.php2
+[21-04-12 12:00:32] - https://armymedicine.health.mil/ - Data - Cannot connect to: armymedicine.health.mil:443
+[21-04-12 12:00:32] - https://armymedicine.health.mil/ - UPLOADS - Cannot connect to: armymedicine.health.mil:443
+[21-04-12 12:07:11] - https://camin.apgea.army.mil/ - Data - Cannot connect to: camin.apgea.army.mil:443
+[21-04-12 12:12:27] - https://cgvpnala.uscg.mil/ - accounts.sql - Cannot connect to: cgvpnala.uscg.mil:443
+[21-04-12 12:13:27] - https://cgvpntis.uscg.mil/ - accounts.html - Cannot connect to: cgvpntis.uscg.mil:443
+[21-04-12 12:13:28] - https://cgvpntis.uscg.mil/ - attachment.php - Cannot connect to: cgvpntis.uscg.mil:443
+[21-04-12 12:14:12] - https://cgvpnosc.uscg.mil/ - accounts.aspx - Cannot connect to: cgvpnosc.uscg.mil:443
+[21-04-12 12:14:13] - https://cgvpnosc.uscg.mil/ - accounts.js - Cannot connect to: cgvpnosc.uscg.mil:443
+[21-04-12 12:19:03] - https://constitutionday.cpms.osd.mil/ - accounts - Cannot connect to: constitutionday.cpms.osd.mil:443
+[21-04-12 12:20:06] - https://contact.darpa.mil/ - JS - There was a problem in the request to: https://192.5.18.235:443/JS
+[21-04-12 12:20:07] - https://contact.darpa.mil/ - Database_Administration/ - There was a problem in the request to: https://192.5.18.235:443/Database_Administration/
+[21-04-12 12:20:08] - https://contact.darpa.mil/ - Upload - There was a problem in the request to: https://192.5.18.235:443/Upload
+[21-04-12 12:20:26] - https://contractors.losangeles.af.mil/ - MySQLadmin - Cannot connect to: contractors.losangeles.af.mil:443
+[21-04-12 12:20:40] - https://corpweb1.dfas.mil/ - accounts.js - Cannot connect to: corpweb1.dfas.mil:443
+[21-04-12 12:20:49] - https://corpweb1.dfas.mil/ - MyAdmin/ - Cannot connect to: corpweb1.dfas.mil:443
+[21-04-12 12:21:17] - https://cpp.army.mil/ - DATA - Cannot connect to: cpp.army.mil:443
+[21-04-12 12:23:46] - https://ct-vpn1.ngb.army.mil/ - accounts.html - Cannot connect to: ct-vpn1.ngb.army.mil:443
+[21-04-12 12:23:48] - https://ct-vpn1.ngb.army.mil/ - attachment - Cannot connect to: ct-vpn1.ngb.army.mil:443
+[21-04-12 12:23:48] - https://ct-vpn1.ngb.army.mil/ - bitrix/modules/main/admin/restore.php - Cannot connect to: ct-vpn1.ngb.army.mil:443
+[21-04-12 12:27:31] - https://de-vpn2.ngb.army.mil/ - attachment - Cannot connect to: de-vpn2.ngb.army.mil:443
+[21-04-12 12:27:31] - https://de-vpn2.ngb.army.mil/ - bitrix/modules/main/admin/restore.php - Cannot connect to: de-vpn2.ngb.army.mil:443
+[21-04-12 12:29:16] - https://dev32-obiee11.dai.csd.disa.mil/ - accounts.php - Cannot connect to: dev32-obiee11.dai.csd.disa.mil:443
+[21-04-12 12:31:56] - https://dnc.nga.mil/ - upload - Cannot connect to: dnc.nga.mil:443
+[21-04-12 12:31:56] - https://dnc.nga.mil/ - Data - Cannot connect to: dnc.nga.mil:443
+[21-04-12 12:31:56] - https://dnc.nga.mil/ - xmlrpc.php - Cannot connect to: dnc.nga.mil:443
+[21-04-12 12:32:39] - https://dodvets.dcpas.osd.mil/ - MyAdmin/ - Cannot connect to: dodvets.dcpas.osd.mil:443
+[21-04-12 12:32:39] - https://dodvets.dcpas.osd.mil/ - data - Cannot connect to: dodvets.dcpas.osd.mil:443
+[21-04-12 12:32:39] - https://dodvets.dcpas.osd.mil/ - Database_Administration/ - Cannot connect to: dodvets.dcpas.osd.mil:443
+[21-04-12 12:32:39] - https://dodvets.dcpas.osd.mil/ - JS - Cannot connect to: dodvets.dcpas.osd.mil:443
+[21-04-12 12:32:39] - https://dodvets.dcpas.osd.mil/ - Images - Cannot connect to: dodvets.dcpas.osd.mil:443
+[21-04-12 12:32:56] - https://dodvets.cpms.osd.mil/ - Upload - Cannot connect to: dodvets.cpms.osd.mil:443
+[21-04-12 12:34:18] - https://dso.dla.mil/ - Images - Cannot connect to: dso.dla.mil:443
+[21-04-12 12:34:40] - https://dss.nga.mil/ - Database_Administration/ - Cannot connect to: dss.nga.mil:443
+[21-04-12 12:34:40] - https://dss.nga.mil/ - phpinfo.php - Cannot connect to: dss.nga.mil:443
+[21-04-12 12:39:31] - https://enom.nga.mil/ - MySQLadmin - There was a problem in the request to: https://214.28.174.197:443/MySQLadmin
+[21-04-12 12:39:32] - https://enom.nga.mil/ - xmlrpc.php - There was a problem in the request to: https://214.28.174.197:443/xmlrpc.php
+[21-04-12 12:39:35] - https://enom.nga.mil/ - MySQLAdmin - There was a problem in the request to: https://214.28.174.197:443/MySQLAdmin
+[21-04-12 12:39:36] - https://enom.nga.mil/ - phpinfo.php - There was a problem in the request to: https://214.28.174.197:443/phpinfo.php
+[21-04-12 12:40:36] - https://eoss-vpn.ngb.army.mil/ - app/config/database.yml.sqlite3 - Cannot connect to: eoss-vpn.ngb.army.mil:443
+[21-04-12 12:40:36] - https://eoss-vpn.ngb.army.mil/ - attachment.jsp - Cannot connect to: eoss-vpn.ngb.army.mil:443
+[21-04-12 12:40:36] - https://eoss-vpn.ngb.army.mil/ - attachment.js - Cannot connect to: eoss-vpn.ngb.army.mil:443
+[21-04-12 12:42:27] - https://erdcwww.navydsrc.hpc.mil/ - Images - Cannot connect to: erdcwww.navydsrc.hpc.mil:443
+[21-04-12 12:43:54] - https://eroom.tma.osd.mil/ - accounts.php - Cannot connect to: eroom.tma.osd.mil:443
+[21-04-12 12:43:54] - https://eroom.tma.osd.mil/ - MySQLAdmin - Cannot connect to: eroom.tma.osd.mil:443
+[21-04-12 12:47:12] - https://fbcb2.army.mil/ - JS - Cannot connect to: fbcb2.army.mil:443
+[21-04-12 12:47:12] - https://fbcb2.army.mil/ - upload - Cannot connect to: fbcb2.army.mil:443
+[21-04-12 12:47:12] - https://fbcb2.army.mil/ - uploads - Cannot connect to: fbcb2.army.mil:443
+[21-04-12 12:47:12] - https://fbcb2.army.mil/ - 1.php - Cannot connect to: fbcb2.army.mil:443
+[21-04-12 12:47:43] - https://fep-pub.erdc.dren.mil/ - images - Cannot connect to: fep-pub.erdc.dren.mil:443
+[21-04-12 12:48:00] - https://federation.dev.cce.af.mil/ - Images - Cannot connect to: federation.dev.cce.af.mil:443
+[21-04-12 12:48:00] - https://federation.dev.cce.af.mil/ - 1.php - Cannot connect to: federation.dev.cce.af.mil:443
+[21-04-12 12:52:40] - https://ga-vpn1.ngb.army.mil/ - accounts.aspx - Cannot connect to: ga-vpn1.ngb.army.mil:443
+[21-04-12 12:52:40] - https://ga-vpn1.ngb.army.mil/ - accounts.jsp - Cannot connect to: ga-vpn1.ngb.army.mil:443
+[21-04-12 12:52:40] - https://ga-vpn1.ngb.army.mil/ - attachment.aspx - Cannot connect to: ga-vpn1.ngb.army.mil:443
+[21-04-12 12:53:11] - https://gateway.prod.aws.cce.af.mil/ - MySQLAdmin - Cannot connect to: gateway.prod.aws.cce.af.mil:443
+[21-04-12 12:53:11] - https://gateway.prod.aws.cce.af.mil/ - JS - Cannot connect to: gateway.prod.aws.cce.af.mil:443
+[21-04-12 12:53:11] - https://gateway.prod.aws.cce.af.mil/ - Images - Cannot connect to: gateway.prod.aws.cce.af.mil:443
+[21-04-12 12:53:11] - https://gateway.prod.aws.cce.af.mil/ - upload - Cannot connect to: gateway.prod.aws.cce.af.mil:443
+[21-04-12 12:53:27] - https://gateway.dev.aws.cce.af.mil/ - UPLOAD - Cannot connect to: gateway.dev.aws.cce.af.mil:443
+[21-04-12 12:55:53] - https://godefense.cpms.osd.mil/ - Data - Cannot connect to: godefense.cpms.osd.mil:443
+[21-04-12 12:55:53] - https://godefense.cpms.osd.mil/ - accounts - Cannot connect to: godefense.cpms.osd.mil:443
+[21-04-12 12:57:03] - https://grid.nga.mil/ - MySQLAdmin - There was a problem in the request to: https://214.28.173.178:443/MySQLAdmin
+[21-04-12 12:57:04] - https://grid.nga.mil/ - xmlrpc.php - There was a problem in the request to: https://214.28.173.178:443/xmlrpc.php
+[21-04-12 12:57:04] - https://grid.nga.mil/ - MySQLadmin - There was a problem in the request to: https://214.28.173.178:443/MySQLadmin
+[21-04-12 12:57:04] - https://grid.nga.mil/ - phpinfo.php - There was a problem in the request to: https://214.28.173.178:443/phpinfo.php
+[21-04-12 12:57:57] - https://gulflink.osd.mil/ - UPLOADS - Cannot connect to: gulflink.osd.mil:443
+[21-04-12 12:57:57] - https://gulflink.osd.mil/ - Data - Cannot connect to: gulflink.osd.mil:443
+[21-04-12 12:57:57] - https://gulflink.osd.mil/ - 1.php - Cannot connect to: gulflink.osd.mil:443
+[21-04-12 12:58:25] - https://gwg.nga.mil/ - xmlrpc.php - Cannot connect to: gwg.nga.mil:443
+[21-04-12 12:58:25] - https://gwg.nga.mil/ - Images - Cannot connect to: gwg.nga.mil:443
+[21-04-12 12:58:43] - https://hearing.health.mil/ - 1.php - Cannot connect to: hearing.health.mil:443
+[21-04-12 12:58:43] - https://hearing.health.mil/ - MySQLAdmin - Cannot connect to: hearing.health.mil:443
+[21-04-12 12:58:43] - https://hearing.health.mil/ - accounts.php - Cannot connect to: hearing.health.mil:443
+[21-04-12 13:00:38] - https://homeport-s.uscg.mil/ - MySQLAdmin - Cannot connect to: homeport-s.uscg.mil:443
+[21-04-12 13:00:55] - https://home.sofsa.mil/ - UPLOADS - Cannot connect to: home.sofsa.mil:443
+[21-04-12 13:00:55] - https://home.sofsa.mil/ - MyAdmin/ - Cannot connect to: home.sofsa.mil:443
+[21-04-12 13:00:55] - https://home.sofsa.mil/ - phpinfo.php - Cannot connect to: home.sofsa.mil:443
+[21-04-12 13:00:55] - https://home.sofsa.mil/ - DB - Cannot connect to: home.sofsa.mil:443
+[21-04-12 13:00:55] - https://home.sofsa.mil/ - accounts.php - Cannot connect to: home.sofsa.mil:443
+[21-04-12 13:01:58] - https://home.gvs.nga.mil/ - xmlrpc.php - There was a problem in the request to: https://214.28.173.233:443/xmlrpc.php
+[21-04-12 13:01:58] - https://home.gvs.nga.mil/ - MySQLAdmin - There was a problem in the request to: https://214.28.173.233:443/MySQLAdmin
+[21-04-12 13:01:58] - https://home.gvs.nga.mil/ - phpinfo.php - There was a problem in the request to: https://214.28.173.233:443/phpinfo.php
+[21-04-12 13:01:59] - https://home.gvs.nga.mil/ - MySQLadmin - There was a problem in the request to: https://214.28.173.233:443/MySQLadmin
+[21-04-12 13:13:17] - https://iwmdt.dtra.mil/ - UPLOAD - Cannot connect to: iwmdt.dtra.mil:443
+[21-04-12 13:14:19] - https://jag.navylive.dodlive.mil/ - MyAdmin/ - There was a problem in the request to: https://23.58.42.219:443/MyAdmin/
+[21-04-12 13:14:19] - https://jag.navylive.dodlive.mil/ - MySQLAdmin - There was a problem in the request to: https://23.58.42.219:443/MySQLAdmin
+[21-04-12 13:14:19] - https://jag.navylive.dodlive.mil/ - js - There was a problem in the request to: https://23.58.42.219:443/js
+[21-04-12 13:14:23] - https://jag.navylive.dodlive.mil/ - accounts - There was a problem in the request to: https://23.58.42.219:443/accounts
+[21-04-12 13:14:30] - https://jag.navylive.dodlive.mil/ - accounts.jsp - There was a problem in the request to: https://23.58.42.219:443/accounts.jsp
+[21-04-12 13:14:32] - https://jag.navylive.dodlive.mil/ - attachment.php - There was a problem in the request to: https://23.58.42.219:443/attachment.php
+[21-04-12 13:14:49] - https://jag.navylive.dodlive.mil/ - bitrix/modules/main/admin/restore.php - There was a problem in the request to: https://23.58.42.219:443/bitrix/modules/main/admin/restore.php
+[21-04-12 13:18:06] - https://jo.army.mil/ - wp-json - There was a problem in the request to: https://18.214.34.171:443/wp-json
+[21-04-12 13:18:06] - https://jo.army.mil/ - uploads - There was a problem in the request to: https://18.214.34.171:443/uploads
+[21-04-12 13:18:06] - https://jo.army.mil/ - DB - There was a problem in the request to: https://18.214.34.171:443/DB
+[21-04-12 13:18:06] - https://jo.army.mil/ - MySQLAdmin - There was a problem in the request to: https://18.214.34.171:443/MySQLAdmin
+[21-04-12 13:18:06] - https://jo.army.mil/ - _data/ - There was a problem in the request to: https://18.214.34.171:443/_data/
+[21-04-12 13:18:06] - https://jo.army.mil/ - accounts - There was a problem in the request to: https://18.214.34.171:443/accounts
+[21-04-12 13:18:06] - https://jo.army.mil/ - accounts.jsp - There was a problem in the request to: https://18.214.34.171:443/accounts.jsp
+[21-04-12 13:18:06] - https://jo.army.mil/ - accounts.aspx - There was a problem in the request to: https://18.214.34.171:443/accounts.aspx
+[21-04-12 13:18:07] - https://jo.army.mil/ - DATA - There was a problem in the request to: https://18.214.34.171:443/DATA
+[21-04-12 13:18:09] - https://jo.army.mil/ - Data - There was a problem in the request to: https://18.214.34.171:443/Data
+[21-04-12 13:18:09] - https://jo.army.mil/ - data - There was a problem in the request to: https://18.214.34.171:443/data
+[21-04-12 13:18:09] - https://jo.army.mil/ - Uploads - There was a problem in the request to: https://18.214.34.171:443/Uploads
+[21-04-12 13:18:09] - https://jo.army.mil/ - MyAdmin/ - There was a problem in the request to: https://18.214.34.171:443/MyAdmin/
+[21-04-12 13:18:09] - https://jo.army.mil/ - accounts.js - There was a problem in the request to: https://18.214.34.171:443/accounts.js
+[21-04-12 13:18:10] - https://jo.army.mil/ - MySQLadmin - There was a problem in the request to: https://18.214.34.171:443/MySQLadmin
+[21-04-12 13:18:10] - https://jo.army.mil/ - IMAGES - There was a problem in the request to: https://18.214.34.171:443/IMAGES
+[21-04-12 13:18:10] - https://jo.army.mil/ - images - There was a problem in the request to: https://18.214.34.171:443/images
+[21-04-12 13:18:10] - https://jo.army.mil/ - UPLOADS - There was a problem in the request to: https://18.214.34.171:443/UPLOADS
+[21-04-12 13:18:10] - https://jo.army.mil/ - Database_Backup/ - There was a problem in the request to: https://18.214.34.171:443/Database_Backup/
+[21-04-12 13:18:10] - https://jo.army.mil/ - app/config/database.yml.sqlite3 - There was a problem in the request to: https://18.214.34.171:443/app/config/database.yml.sqlite3
+[21-04-12 13:18:11] - https://jo.army.mil/ - JS - There was a problem in the request to: https://18.214.34.171:443/JS
+[21-04-12 13:18:11] - https://jo.army.mil/ - Upload - There was a problem in the request to: https://18.214.34.171:443/Upload
+[21-04-12 13:18:11] - https://jo.army.mil/ - accounts.sql - There was a problem in the request to: https://18.214.34.171:443/accounts.sql
+[21-04-12 13:18:12] - https://jo.army.mil/ - js - There was a problem in the request to: https://18.214.34.171:443/js
+[21-04-12 13:18:12] - https://jo.army.mil/ - app/etc/ - There was a problem in the request to: https://18.214.34.171:443/app/etc/
+[21-04-12 13:18:12] - https://jo.army.mil/ - UPLOAD - There was a problem in the request to: https://18.214.34.171:443/UPLOAD
+[21-04-12 13:18:12] - https://jo.army.mil/ - app/src - There was a problem in the request to: https://18.214.34.171:443/app/src
+[21-04-12 13:18:12] - https://jo.army.mil/ - Database_Administration/ - There was a problem in the request to: https://18.214.34.171:443/Database_Administration/
+[21-04-12 13:18:12] - https://jo.army.mil/ - Images - There was a problem in the request to: https://18.214.34.171:443/Images
+[21-04-12 13:18:13] - https://jo.army.mil/ - upload - There was a problem in the request to: https://18.214.34.171:443/upload
+[21-04-12 13:18:49] - https://jo.army.mil/ - attachment.js - There was a problem in the request to: https://18.214.34.171:443/attachment.js
+[21-04-12 13:18:49] - https://jo.army.mil/ - attachment - There was a problem in the request to: https://18.214.34.171:443/attachment
+[21-04-12 13:18:49] - https://jo.army.mil/ - bitrix/php_interface/dbconn.php2 - There was a problem in the request to: https://18.214.34.171:443/bitrix/php_interface/dbconn.php2
+[21-04-12 13:18:50] - https://jo.army.mil/ - bitrix/php_interface/dbconn.php - There was a problem in the request to: https://18.214.34.171:443/bitrix/php_interface/dbconn.php
+[21-04-12 13:18:50] - https://jo.army.mil/ - attachment.jsp - There was a problem in the request to: https://18.214.34.171:443/attachment.jsp
+[21-04-12 13:18:50] - https://jo.army.mil/ - attachment.php - There was a problem in the request to: https://18.214.34.171:443/attachment.php
+[21-04-12 13:18:51] - https://jo.army.mil/ - attachment.aspx - There was a problem in the request to: https://18.214.34.171:443/attachment.aspx
+[21-04-12 13:18:51] - https://jo.army.mil/ - bitrix/modules/main/admin/restore.php - There was a problem in the request to: https://18.214.34.171:443/bitrix/modules/main/admin/restore.php
+[21-04-12 13:21:28] - https://kioa.disa.mil/ - accounts.js - Cannot connect to: kioa.disa.mil:443
+[21-04-12 13:21:28] - https://kioa.disa.mil/ - accounts.sql - Cannot connect to: kioa.disa.mil:443
+[21-04-12 13:21:34] - https://kioa.disa.mil/ - UPLOADS - Cannot connect to: kioa.disa.mil:443
+[21-04-12 13:22:24] - https://las-rpt.ncdc.navy.mil/ - uploads - Cannot connect to: las-rpt.ncdc.navy.mil:443
+[21-04-12 13:22:24] - https://las-rpt.ncdc.navy.mil/ - Upload - Cannot connect to: las-rpt.ncdc.navy.mil:443
+[21-04-12 13:22:24] - https://las-rpt.ncdc.navy.mil/ - Database_Backup/ - Cannot connect to: las-rpt.ncdc.navy.mil:443
+[21-04-12 13:22:24] - https://las-rpt.ncdc.navy.mil/ - 1.php - Cannot connect to: las-rpt.ncdc.navy.mil:443
+[21-04-12 13:22:24] - https://las-rpt.ncdc.navy.mil/ - accounts - Cannot connect to: las-rpt.ncdc.navy.mil:443
+[21-04-12 13:22:24] - https://las-rpt.ncdc.navy.mil/ - UPLOAD - Cannot connect to: las-rpt.ncdc.navy.mil:443
+[21-04-12 13:22:24] - https://las-rpt.ncdc.navy.mil/ - MyAdmin/ - Cannot connect to: las-rpt.ncdc.navy.mil:443
+[21-04-12 13:22:24] - https://las-rpt.ncdc.navy.mil/ - data - Cannot connect to: las-rpt.ncdc.navy.mil:443
+[21-04-12 13:23:38] - https://lms.dcpas.osd.mil/ - js - Cannot connect to: lms.dcpas.osd.mil:443
+[21-04-12 13:26:02] - https://lpds.jten.mil/ - wp-json - Cannot connect to: lpds.jten.mil:443
+[21-04-12 13:27:10] - https://m4b-of-ds1.us.af.mil/ - info.php - Cannot connect to: m4b-of-ds1.us.af.mil:443
+[21-04-12 13:27:28] - https://m4b-gu-is1.us.af.mil/ - DATA - Cannot connect to: m4b-gu-is1.us.af.mil:443
+[21-04-12 13:28:13] - https://m4b-ak-ds1.us.af.mil/ - Data - Cannot connect to: m4b-ak-ds1.us.af.mil:443
+[21-04-12 13:30:49] - https://m4b.kadena.af.mil/ - bitrix/modules/main/admin/restore.php - Cannot connect to: m4b.kadena.af.mil:443
+[21-04-12 13:31:09] - https://m4b.ramstein.af.mil/ - Database_Backup/ - Cannot connect to: m4b.ramstein.af.mil:443
+[21-04-12 13:31:09] - https://m4b.ramstein.af.mil/ - MySQLAdmin - Cannot connect to: m4b.ramstein.af.mil:443
+[21-04-12 13:31:09] - https://m4b.ramstein.af.mil/ - xmlrpc.php - Cannot connect to: m4b.ramstein.af.mil:443
+[21-04-12 13:35:30] - https://md-vpn2.ngb.army.mil/ - accounts.sql - Cannot connect to: md-vpn2.ngb.army.mil:443
+[21-04-12 13:35:30] - https://md-vpn2.ngb.army.mil/ - attachment.html - Cannot connect to: md-vpn2.ngb.army.mil:443
+[21-04-12 13:35:30] - https://md-vpn2.ngb.army.mil/ - attachment.js - Cannot connect to: md-vpn2.ngb.army.mil:443
+[21-04-12 13:35:30] - https://md-vpn2.ngb.army.mil/ - attachment - Cannot connect to: md-vpn2.ngb.army.mil:443
+[21-04-12 13:38:20] - https://media.cpms.osd.mil/ - 1.php - Cannot connect to: media.cpms.osd.mil:443
+[21-04-12 13:41:18] - https://militarykidsconnect.health.mil/ - Data - Cannot connect to: militarykidsconnect.health.mil:443
+[21-04-12 13:42:16] - https://minnesotanationalguard.ng.mil/ - Images - There was a problem in the request to: https://23.97.9.186:443/Images
+[21-04-12 13:42:16] - https://minnesotanationalguard.ng.mil/ - Upload - There was a problem in the request to: https://23.97.9.186:443/Upload
+[21-04-12 13:42:16] - https://minnesotanationalguard.ng.mil/ - MyAdmin/scripts/setup.php - There was a problem in the request to: https://23.97.9.186:443/MyAdmin/scripts/setup.php
+[21-04-12 13:42:16] - https://minnesotanationalguard.ng.mil/ - JS - There was a problem in the request to: https://23.97.9.186:443/JS
+[21-04-12 13:42:16] - https://minnesotanationalguard.ng.mil/ - accounts.php - There was a problem in the request to: https://23.97.9.186:443/accounts.php
+[21-04-12 13:42:16] - https://minnesotanationalguard.ng.mil/ - UPLOAD - There was a problem in the request to: https://23.97.9.186:443/UPLOAD
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - Data - There was a problem in the request to: https://23.97.9.186:443/Data
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - Info.php - There was a problem in the request to: https://23.97.9.186:443/Info.php
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - accounts - There was a problem in the request to: https://23.97.9.186:443/accounts
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - wp-json - There was a problem in the request to: https://23.97.9.186:443/wp-json
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - MySQLadmin - There was a problem in the request to: https://23.97.9.186:443/MySQLadmin
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - phpinfo.php - There was a problem in the request to: https://23.97.9.186:443/phpinfo.php
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - IMAGES - There was a problem in the request to: https://23.97.9.186:443/IMAGES
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - Uploads - There was a problem in the request to: https://23.97.9.186:443/Uploads
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - DATA - There was a problem in the request to: https://23.97.9.186:443/DATA
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - MyAdmin/ - There was a problem in the request to: https://23.97.9.186:443/MyAdmin/
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - Database_Backup/ - There was a problem in the request to: https://23.97.9.186:443/Database_Backup/
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - js - There was a problem in the request to: https://23.97.9.186:443/js
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - uploads - There was a problem in the request to: https://23.97.9.186:443/uploads
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - Database_Administration/ - There was a problem in the request to: https://23.97.9.186:443/Database_Administration/
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - 1.php - There was a problem in the request to: https://23.97.9.186:443/1.php
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - info.php - There was a problem in the request to: https://23.97.9.186:443/info.php
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - _data/ - There was a problem in the request to: https://23.97.9.186:443/_data/
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - UPLOADS - There was a problem in the request to: https://23.97.9.186:443/UPLOADS
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - MySQLAdmin - There was a problem in the request to: https://23.97.9.186:443/MySQLAdmin
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - data - There was a problem in the request to: https://23.97.9.186:443/data
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - accounts.aspx - There was a problem in the request to: https://23.97.9.186:443/accounts.aspx
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - images - There was a problem in the request to: https://23.97.9.186:443/images
+[21-04-12 13:42:17] - https://minnesotanationalguard.ng.mil/ - DB - There was a problem in the request to: https://23.97.9.186:443/DB
+[21-04-12 13:42:26] - https://minnesotanationalguard.ng.mil/ - accounts.jsp - There was a problem in the request to: https://23.97.9.186:443/accounts.jsp
+[21-04-12 13:42:59] - https://minnesotanationalguard.ng.mil/ - accounts.html - There was a problem in the request to: https://23.97.9.186:443/accounts.html
+[21-04-12 13:42:59] - https://minnesotanationalguard.ng.mil/ - accounts.js - There was a problem in the request to: https://23.97.9.186:443/accounts.js
+[21-04-12 13:42:59] - https://minnesotanationalguard.ng.mil/ - app/src - There was a problem in the request to: https://23.97.9.186:443/app/src
+[21-04-12 13:42:59] - https://minnesotanationalguard.ng.mil/ - app/config/database.yml.sqlite3 - There was a problem in the request to: https://23.97.9.186:443/app/config/database.yml.sqlite3
+[21-04-12 13:42:59] - https://minnesotanationalguard.ng.mil/ - app/etc/ - There was a problem in the request to: https://23.97.9.186:443/app/etc/
+[21-04-12 13:42:59] - https://minnesotanationalguard.ng.mil/ - accounts.sql - There was a problem in the request to: https://23.97.9.186:443/accounts.sql
+[21-04-12 13:42:59] - https://minnesotanationalguard.ng.mil/ - bitrix/php_interface/dbconn.php2 - There was a problem in the request to: https://23.97.9.186:443/bitrix/php_interface/dbconn.php2
+[21-04-12 13:42:59] - https://minnesotanationalguard.ng.mil/ - attachment.jsp - There was a problem in the request to: https://23.97.9.186:443/attachment.jsp
+[21-04-12 13:42:59] - https://minnesotanationalguard.ng.mil/ - attachment.html - There was a problem in the request to: https://23.97.9.186:443/attachment.html
+[21-04-12 13:42:59] - https://minnesotanationalguard.ng.mil/ - attachment.aspx - There was a problem in the request to: https://23.97.9.186:443/attachment.aspx
+[21-04-12 13:42:59] - https://minnesotanationalguard.ng.mil/ - attachment.js - There was a problem in the request to: https://23.97.9.186:443/attachment.js
+[21-04-12 13:42:59] - https://minnesotanationalguard.ng.mil/ - attachment.php - There was a problem in the request to: https://23.97.9.186:443/attachment.php
+[21-04-12 13:42:59] - https://minnesotanationalguard.ng.mil/ - attachment - There was a problem in the request to: https://23.97.9.186:443/attachment
+[21-04-12 13:42:59] - https://minnesotanationalguard.ng.mil/ - bitrix/php_interface/dbconn.php - There was a problem in the request to: https://23.97.9.186:443/bitrix/php_interface/dbconn.php
+[21-04-12 13:42:59] - https://minnesotanationalguard.ng.mil/ - bitrix/modules/main/admin/restore.php - There was a problem in the request to: https://23.97.9.186:443/bitrix/modules/main/admin/restore.php
+[21-04-12 13:44:24] - https://mn-vpn1.ngb.army.mil/ - attachment.aspx - Cannot connect to: mn-vpn1.ngb.army.mil:443
+[21-04-12 13:44:26] - https://mn-vpn1.ngb.army.mil/ - bitrix/php_interface/dbconn.php2 - Cannot connect to: mn-vpn1.ngb.army.mil:443
+[21-04-12 13:46:14] - https://ms-vpn1.ngb.army.mil/ - accounts.jsp - Cannot connect to: ms-vpn1.ngb.army.mil:443
+[21-04-12 13:46:14] - https://ms-vpn1.ngb.army.mil/ - accounts.js - Cannot connect to: ms-vpn1.ngb.army.mil:443
+[21-04-12 13:47:37] - https://mtloadbalancer.arpc.afrc.af.mil/ - Database_Backup/ - Cannot connect to: mtloadbalancer.arpc.afrc.af.mil:443
+[21-04-12 13:47:37] - https://mtloadbalancer.arpc.afrc.af.mil/ - IMAGES - Cannot connect to: mtloadbalancer.arpc.afrc.af.mil:443
+[21-04-12 13:55:28] - https://ngasurveytst.nga.mil/ - xmlrpc.php - There was a problem in the request to: https://214.28.174.174:443/xmlrpc.php
+[21-04-12 13:55:32] - https://ngasurveytst.nga.mil/ - phpinfo.php - There was a problem in the request to: https://214.28.174.174:443/phpinfo.php
+[21-04-12 13:55:33] - https://ngasurveytst.nga.mil/ - MySQLadmin - There was a problem in the request to: https://214.28.174.174:443/MySQLadmin
+[21-04-12 13:55:33] - https://ngasurveytst.nga.mil/ - MySQLAdmin - There was a problem in the request to: https://214.28.174.174:443/MySQLAdmin
+[21-04-12 13:56:32] - https://nh-vpn1.ngb.army.mil/ - accounts.aspx - Cannot connect to: nh-vpn1.ngb.army.mil:443
+[21-04-12 13:56:33] - https://nh-vpn1.ngb.army.mil/ - accounts.sql - Cannot connect to: nh-vpn1.ngb.army.mil:443
+[21-04-12 13:56:33] - https://nh-vpn1.ngb.army.mil/ - app/etc/ - Cannot connect to: nh-vpn1.ngb.army.mil:443
+[21-04-12 13:56:33] - https://nh-vpn1.ngb.army.mil/ - attachment.php - Cannot connect to: nh-vpn1.ngb.army.mil:443
+[21-04-12 13:59:42] - https://nj-vpn1.ngb.army.mil/ - accounts.aspx - Cannot connect to: nj-vpn1.ngb.army.mil:443
+[21-04-12 13:59:42] - https://nj-vpn1.ngb.army.mil/ - attachment.jsp - Cannot connect to: nj-vpn1.ngb.army.mil:443
+[21-04-12 13:59:43] - https://nj-vpn1.ngb.army.mil/ - bitrix/modules/main/admin/restore.php - Cannot connect to: nj-vpn1.ngb.army.mil:443
+[21-04-12 14:19:24] - https://qpldocs.dla.mil/ - Upload - Cannot connect to: qpldocs.dla.mil:443
+[21-04-12 14:19:24] - https://qpldocs.dla.mil/ - xmlrpc.php - Cannot connect to: qpldocs.dla.mil:443
+[21-04-12 14:19:24] - https://qpldocs.dla.mil/ - uploads - Cannot connect to: qpldocs.dla.mil:443

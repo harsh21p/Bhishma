@@ -1,0 +1,64 @@
+
+[21-04-12 07:47:44] - https://aabhaar.punepolice.gov.in/ - MyAdmin/scripts/setup.php - Cannot connect to: aabhaar.punepolice.gov.in:443
+[21-04-12 07:52:29] - http://acbmaharashtra.gov.in/ - MyAdmin/scripts/setup.php - There was a problem in the request to: http://164.100.228.100:80/MyAdmin/scripts/setup.php
+[21-04-12 07:55:01] - https://afd.csdindia.gov.in/ - MyAdmin/scripts/setup.php - There was a problem in the request to: https://164.100.63.28:443/MyAdmin/scripts/setup.php
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - uploads - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - accounts.aspx - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - _data/ - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - upload - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - 1.php - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - wp-json - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - UPLOADS - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - JS - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - MyAdmin/ - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - info.php - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - js - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - data - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - Data - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - Upload - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - Info.php - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - phpinfo.php - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - Uploads - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - UPLOAD - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - accounts.php - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - MyAdmin/scripts/setup.php - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - Database_Backup/ - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - DATA - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - IMAGES - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - Images - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - DB - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - accounts - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - MySQLadmin - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - Database_Administration/ - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:55:36] - https://ads2.kerala.gov.in/ - MySQLAdmin - Cannot connect to: ads2.kerala.gov.in:443
+[21-04-12 07:57:54] - http://adoappl16854.apspsc.gov.in/ - MyAdmin/scripts/setup.php - Cannot connect to: adoappl16854.apspsc.gov.in:80
+[21-04-12 07:59:57] - https://agmcltd.assam.gov.in/ - wp-json - There was a problem in the request to: https://103.8.249.74:443/wp-json
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - phpinfo.php - There was a problem in the request to: https://103.8.249.74:443/phpinfo.php
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - Uploads - There was a problem in the request to: https://103.8.249.74:443/Uploads
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - info.php - There was a problem in the request to: https://103.8.249.74:443/info.php
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - 1.php - There was a problem in the request to: https://103.8.249.74:443/1.php
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - accounts - There was a problem in the request to: https://103.8.249.74:443/accounts
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - DATA - There was a problem in the request to: https://103.8.249.74:443/DATA
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - accounts.php - There was a problem in the request to: https://103.8.249.74:443/accounts.php
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - IMAGES - There was a problem in the request to: https://103.8.249.74:443/IMAGES
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - Upload - There was a problem in the request to: https://103.8.249.74:443/Upload
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - Info.php - There was a problem in the request to: https://103.8.249.74:443/Info.php
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - Images - There was a problem in the request to: https://103.8.249.74:443/Images
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - DB - There was a problem in the request to: https://103.8.249.74:443/DB
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - upload - There was a problem in the request to: https://103.8.249.74:443/upload
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - accounts.aspx - There was a problem in the request to: https://103.8.249.74:443/accounts.aspx
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - JS - There was a problem in the request to: https://103.8.249.74:443/JS
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - MySQLadmin - There was a problem in the request to: https://103.8.249.74:443/MySQLadmin
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - js - There was a problem in the request to: https://103.8.249.74:443/js
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - data - There was a problem in the request to: https://103.8.249.74:443/data
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - MyAdmin/scripts/setup.php - There was a problem in the request to: https://103.8.249.74:443/MyAdmin/scripts/setup.php
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - images - There was a problem in the request to: https://103.8.249.74:443/images
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - uploads - There was a problem in the request to: https://103.8.249.74:443/uploads
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - UPLOADS - There was a problem in the request to: https://103.8.249.74:443/UPLOADS
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - UPLOAD - There was a problem in the request to: https://103.8.249.74:443/UPLOAD
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - Data - There was a problem in the request to: https://103.8.249.74:443/Data
+[21-04-12 07:59:58] - https://agmcltd.assam.gov.in/ - MySQLAdmin - There was a problem in the request to: https://103.8.249.74:443/MySQLAdmin
+[21-04-12 08:00:00] - https://agmcltd.assam.gov.in/ - accounts.jsp - There was a problem in the request to: https://103.8.249.74:443/accounts.jsp
+[21-04-12 08:00:00] - https://agmcltd.assam.gov.in/ - accounts.html - There was a problem in the request to: https://103.8.249.74:443/accounts.html
+[21-04-12 08:00:00] - https://agmcltd.assam.gov.in/ - app/config/database.yml.sqlite3 - There was a problem in the request to: https://103.8.249.74:443/app/config/database.yml.sqlite3
+[21-04-12 08:00:07] - https://agmcltd.assam.gov.in/ - app/src - There was a problem in the request to: https://103.8.249.74:443/app/src

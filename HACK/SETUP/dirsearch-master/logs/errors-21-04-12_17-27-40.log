@@ -1,0 +1,80 @@
+
+[21-04-12 17:29:00] - https://seabeemagazine.navylive.dodlive.mil/ - Info.php - There was a problem in the request to: https://104.120.223.169:443/Info.php
+[21-04-12 17:29:00] - https://seabeemagazine.navylive.dodlive.mil/ - DATA - There was a problem in the request to: https://104.120.223.169:443/DATA
+[21-04-12 17:29:00] - https://seabeemagazine.navylive.dodlive.mil/ - info.php - There was a problem in the request to: https://104.120.223.169:443/info.php
+[21-04-12 17:29:00] - https://seabeemagazine.navylive.dodlive.mil/ - MySQLadmin - There was a problem in the request to: https://104.120.223.169:443/MySQLadmin
+[21-04-12 17:29:00] - https://seabeemagazine.navylive.dodlive.mil/ - MySQLAdmin - There was a problem in the request to: https://104.120.223.169:443/MySQLAdmin
+[21-04-12 17:29:00] - https://seabeemagazine.navylive.dodlive.mil/ - Data - There was a problem in the request to: https://104.120.223.169:443/Data
+[21-04-12 17:29:04] - https://seabeemagazine.navylive.dodlive.mil/ - DB - There was a problem in the request to: https://104.120.223.169:443/DB
+[21-04-12 17:29:04] - https://seabeemagazine.navylive.dodlive.mil/ - Database_Backup/ - There was a problem in the request to: https://104.120.223.169:443/Database_Backup/
+[21-04-12 17:29:10] - https://seabeemagazine.navylive.dodlive.mil/ - images - There was a problem in the request to: https://104.120.223.169:443/images
+[21-04-12 17:29:10] - https://seabeemagazine.navylive.dodlive.mil/ - upload - There was a problem in the request to: https://104.120.223.169:443/upload
+[21-04-12 17:29:10] - https://seabeemagazine.navylive.dodlive.mil/ - Upload - There was a problem in the request to: https://104.120.223.169:443/Upload
+[21-04-12 17:29:10] - https://seabeemagazine.navylive.dodlive.mil/ - _data/ - There was a problem in the request to: https://104.120.223.169:443/_data/
+[21-04-12 17:29:10] - https://seabeemagazine.navylive.dodlive.mil/ - wp-json - There was a problem in the request to: https://104.120.223.169:443/wp-json
+[21-04-12 17:29:10] - https://seabeemagazine.navylive.dodlive.mil/ - accounts.aspx - There was a problem in the request to: https://104.120.223.169:443/accounts.aspx
+[21-04-12 17:29:18] - https://seabeemagazine.navylive.dodlive.mil/ - accounts.jsp - There was a problem in the request to: https://104.120.223.169:443/accounts.jsp
+[21-04-12 17:29:18] - https://seabeemagazine.navylive.dodlive.mil/ - accounts.html - There was a problem in the request to: https://104.120.223.169:443/accounts.html
+[21-04-12 17:29:30] - https://seabeemagazine.navylive.dodlive.mil/ - attachment.html - There was a problem in the request to: https://104.120.223.169:443/attachment.html
+[21-04-12 17:32:23] - https://simdis.nrl.navy.mil/ - phpinfo.php - Cannot connect to: simdis.nrl.navy.mil:443
+[21-04-12 17:32:23] - https://simdis.nrl.navy.mil/ - _data/ - Cannot connect to: simdis.nrl.navy.mil:443
+[21-04-12 17:32:43] - https://smclivelink-mgt2.losangeles.af.mil/ - Data - Cannot connect to: smclivelink-mgt2.losangeles.af.mil:443
+[21-04-12 17:33:04] - https://smc.peterson.af.mil/ - Info.php - Cannot connect to: smc.peterson.af.mil:443
+[21-04-12 17:36:42] - https://ssoauth.dla.mil/ - accounts - Cannot connect to: ssoauth.dla.mil:443
+[21-04-12 17:38:13] - https://sungrazer.nrl.navy.mil/ - MyAdmin/scripts/setup.php - Cannot connect to: sungrazer.nrl.navy.mil:443
+[21-04-12 17:38:35] - https://support.erdc.dren.mil/ - _data/ - Cannot connect to: support.erdc.dren.mil:443
+[21-04-12 17:38:35] - https://support.erdc.dren.mil/ - Info.php - Cannot connect to: support.erdc.dren.mil:443
+[21-04-12 17:42:27] - https://tjaglcs.army.mil/ - upload - Cannot connect to: tjaglcs.army.mil:443
+[21-04-12 17:44:24] - https://training.sms.erdc.dren.mil/ - Images - Cannot connect to: training.sms.erdc.dren.mil:443
+[21-04-12 17:49:59] - https://usnhistory.navylive.dodlive.mil/ - app/etc/ - There was a problem in the request to: https://23.58.4.174:443/app/etc/
+[21-04-12 17:50:01] - https://usnhistory.navylive.dodlive.mil/ - attachment.html - There was a problem in the request to: https://23.58.4.174:443/attachment.html
+[21-04-12 18:00:55] - https://webapps.dcaa.mil/ - Images - Cannot connect to: webapps.dcaa.mil:443
+[21-04-12 18:25:20] - https://www.afhsc.mil/ - images - Cannot connect to: www.afhsc.mil:443
+[21-04-12 18:36:01] - https://www.atc.army.mil/ - images - Cannot connect to: www.atc.army.mil:443
+[21-04-12 18:43:41] - https://www.cma.army.mil/ - MyAdmin/ - Cannot connect to: www.cma.army.mil:443
+[21-04-12 18:44:04] - https://www.cma.army.mil/ - accounts - Cannot connect to: www.cma.army.mil:443
+[21-04-12 18:44:14] - https://www.cma.army.mil/ - _data/ - There was a problem in the request to: https://www.cma.army.mil:443/_data/
+[21-04-12 18:44:14] - https://www.cma.army.mil/ - accounts.php - There was a problem in the request to: https://www.cma.army.mil:443/accounts.php
+[21-04-12 18:44:14] - https://www.cma.army.mil/ - wp-json - There was a problem in the request to: https://www.cma.army.mil:443/wp-json
+[21-04-12 18:44:14] - https://www.cma.army.mil/ - DB - There was a problem in the request to: https://www.cma.army.mil:443/DB
+[21-04-12 18:44:14] - https://www.cma.army.mil/ - IMAGES - There was a problem in the request to: https://www.cma.army.mil:443/IMAGES
+[21-04-12 18:44:14] - https://www.cma.army.mil/ - Images - There was a problem in the request to: https://www.cma.army.mil:443/Images
+[21-04-12 18:44:14] - https://www.cma.army.mil/ - DATA - There was a problem in the request to: https://www.cma.army.mil:443/DATA
+[21-04-12 18:44:14] - https://www.cma.army.mil/ - Database_Backup/ - There was a problem in the request to: https://www.cma.army.mil:443/Database_Backup/
+[21-04-12 18:44:14] - https://www.cma.army.mil/ - js - There was a problem in the request to: https://www.cma.army.mil:443/js
+[21-04-12 18:44:14] - https://www.cma.army.mil/ - Data - There was a problem in the request to: https://www.cma.army.mil:443/Data
+[21-04-12 18:44:14] - https://www.cma.army.mil/ - UPLOADS - There was a problem in the request to: https://www.cma.army.mil:443/UPLOADS
+[21-04-12 18:44:14] - https://www.cma.army.mil/ - Database_Administration/ - There was a problem in the request to: https://www.cma.army.mil:443/Database_Administration/
+[21-04-12 18:44:14] - https://www.cma.army.mil/ - Uploads - There was a problem in the request to: https://www.cma.army.mil:443/Uploads
+[21-04-12 18:44:14] - https://www.cma.army.mil/ - Upload - There was a problem in the request to: https://www.cma.army.mil:443/Upload
+[21-04-12 18:44:14] - https://www.cma.army.mil/ - uploads - There was a problem in the request to: https://www.cma.army.mil:443/uploads
+[21-04-12 18:44:14] - https://www.cma.army.mil/ - Info.php - There was a problem in the request to: https://www.cma.army.mil:443/Info.php
+[21-04-12 18:44:15] - https://www.cma.army.mil/ - accounts.aspx - There was a problem in the request to: https://www.cma.army.mil:443/accounts.aspx
+[21-04-12 18:44:15] - https://www.cma.army.mil/ - info.php - There was a problem in the request to: https://www.cma.army.mil:443/info.php
+[21-04-12 18:44:15] - https://www.cma.army.mil/ - 1.php - There was a problem in the request to: https://www.cma.army.mil:443/1.php
+[21-04-12 18:44:16] - https://www.cma.army.mil/ - accounts.html - There was a problem in the request to: https://www.cma.army.mil:443/accounts.html
+[21-04-12 18:44:17] - https://www.cma.army.mil/ - accounts.js - There was a problem in the request to: https://www.cma.army.mil:443/accounts.js
+[21-04-12 18:44:17] - https://www.cma.army.mil/ - accounts.sql - There was a problem in the request to: https://www.cma.army.mil:443/accounts.sql
+[21-04-12 18:44:19] - https://www.cma.army.mil/ - app/config/database.yml.sqlite3 - There was a problem in the request to: https://www.cma.army.mil:443/app/config/database.yml.sqlite3
+[21-04-12 18:44:21] - https://www.cma.army.mil/ - app/etc/ - There was a problem in the request to: https://www.cma.army.mil:443/app/etc/
+[21-04-12 18:44:22] - https://www.cma.army.mil/ - app/src - There was a problem in the request to: https://www.cma.army.mil:443/app/src
+[21-04-12 18:44:22] - https://www.cma.army.mil/ - attachment.php - There was a problem in the request to: https://www.cma.army.mil:443/attachment.php
+[21-04-12 18:44:24] - https://www.cma.army.mil/ - attachment.aspx - There was a problem in the request to: https://www.cma.army.mil:443/attachment.aspx
+[21-04-12 18:44:25] - https://www.cma.army.mil/ - attachment.js - There was a problem in the request to: https://www.cma.army.mil:443/attachment.js
+[21-04-12 18:44:25] - https://www.cma.army.mil/ - attachment.html - There was a problem in the request to: https://www.cma.army.mil:443/attachment.html
+[21-04-12 18:44:46] - https://www.cma.army.mil/ - attachment - There was a problem in the request to: https://www.cma.army.mil:443/attachment
+[21-04-12 18:48:05] - https://www.daip.jcs.mil/ - data - Cannot connect to: www.daip.jcs.mil:443
+[21-04-12 18:48:05] - https://www.daip.jcs.mil/ - accounts.php - Cannot connect to: www.daip.jcs.mil:443
+[21-04-12 18:48:05] - https://www.daip.jcs.mil/ - Images - Cannot connect to: www.daip.jcs.mil:443
+[21-04-12 18:51:58] - https://www.dmdc.osd.mil/ - phpinfo.php - Cannot connect to: www.dmdc.osd.mil:443
+[21-04-12 19:01:38] - https://www.gulflink.osd.mil/ - js - Cannot connect to: www.gulflink.osd.mil:443
+[21-04-12 19:01:38] - https://www.gulflink.osd.mil/ - Info.php - Cannot connect to: www.gulflink.osd.mil:443
+[21-04-12 19:02:08] - https://www.gwg.nga.mil/ - Database_Backup/ - Cannot connect to: www.gwg.nga.mil:443
+[21-04-12 19:02:08] - https://www.gwg.nga.mil/ - DB - Cannot connect to: www.gwg.nga.mil:443
+[21-04-12 19:02:08] - https://www.gwg.nga.mil/ - info.php - Cannot connect to: www.gwg.nga.mil:443
+[21-04-12 19:02:51] - https://www.health.mil/ - UPLOADS - Cannot connect to: www.health.mil:443
+[21-04-12 19:02:51] - https://www.health.mil/ - MySQLAdmin - Cannot connect to: www.health.mil:443
+[21-04-12 19:04:14] - https://www.hrc.army.mil/ - js - Cannot connect to: www.hrc.army.mil:443
+[21-04-12 19:04:14] - https://www.hrc.army.mil/ - Upload - Cannot connect to: www.hrc.army.mil:443
+[21-04-12 19:04:14] - https://www.hrc.army.mil/ - UPLOAD - Cannot connect to: www.hrc.army.mil:443
+[21-04-12 19:30:40] - https://www.nrlmry.navy.mil/ - Database_Backup/ - Cannot connect to: www.nrlmry.navy.mil:443

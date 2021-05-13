@@ -1,0 +1,64 @@
+
+[21-03-09 10:58:35] - http://acesdownload.nic.in/acesdownload/ - MyAdmin/scripts/setup.php - Cannot connect to: acesdownload.nic.in:80
+[21-03-09 10:58:40] - http://acesdownload.nic.in/acesdownload/ - Trace.axd::$DATA - Cannot connect to: acesdownload.nic.in:80
+[21-03-09 10:58:44] - http://acesdownload.nic.in/acesdownload/ - .htaccess.inc - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess.inc
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccess-local - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess-local
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccess.BAK - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess.BAK
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccess.bak1 - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess.bak1
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccess - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccess-dev - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess-dev
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccess.orig - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess.orig
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccess.bak - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess.bak
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccess_sc - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess_sc
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccess-marco - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess-marco
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccess~ - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess~
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccess.old - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess.old
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccess.txt - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess.txt
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccessOLD - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccessOLD
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccess.save - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess.save
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccessBAK - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccessBAK
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccess/ - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess/
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccess_orig - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess_orig
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccess.sample - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess.sample
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccessOLD2 - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccessOLD2
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htgroup - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htgroup
+[21-03-09 10:58:45] - http://acesdownload.nic.in/acesdownload/ - .htaccess_extra - There was a problem in the request to: http://164.100.161.143:80/acesdownload/.htaccess_extra
+[21-03-09 10:58:50] - http://acesdownload.nic.in/acesdownload/ - _vti_inf.html - Cannot connect to: acesdownload.nic.in:80
+[21-03-09 10:59:01] - http://acesdownload.nic.in/acesdownload/ - ASPSamp/AdvWorks/equipment/catalog_type.asp - There was a problem in the request to: http://164.100.161.143:80/acesdownload/ASPSamp/AdvWorks/equipment/catalog_type.asp
+[21-03-09 10:59:02] - http://acesdownload.nic.in/acesdownload/ - AdvWorks/equipment/catalog_type.asp - There was a problem in the request to: http://164.100.161.143:80/acesdownload/AdvWorks/equipment/catalog_type.asp
+[21-03-09 10:59:03] - http://acesdownload.nic.in/acesdownload/ - CFIDE/Administrator/startstop.html - There was a problem in the request to: http://164.100.161.143:80/acesdownload/CFIDE/Administrator/startstop.html
+[21-03-09 10:59:16] - http://acesdownload.nic.in/acesdownload/ - Trace.axd - There was a problem in the request to: http://164.100.161.143:80/acesdownload/Trace.axd
+[21-03-09 10:59:16] - http://acesdownload.nic.in/acesdownload/ - examples/servlets/index.html - Cannot connect to: acesdownload.nic.in:80
+[21-03-09 10:59:16] - http://acesdownload.nic.in/acesdownload/ - examples/jsp/snp/snoop.jsp - Cannot connect to: acesdownload.nic.in:80
+[21-03-09 10:59:23] - http://acesdownload.nic.in/acesdownload/ - \..\..\..\..\..\..\..\..\..\etc\passwd - There was a problem in the request to: http://164.100.161.143:80/acesdownload/\..\..\..\..\..\..\..\..\..\etc\passwd
+[21-03-09 10:59:25] - http://acesdownload.nic.in/acesdownload/ - _mem_bin/ - There was a problem in the request to: http://164.100.161.143:80/acesdownload/_mem_bin/
+[21-03-09 10:59:25] - http://acesdownload.nic.in/acesdownload/ - _mem_bin/autoconfig.asp - There was a problem in the request to: http://164.100.161.143:80/acesdownload/_mem_bin/autoconfig.asp
+[21-03-09 10:59:25] - http://acesdownload.nic.in/acesdownload/ - _mem_bin/formslogin.asp - There was a problem in the request to: http://164.100.161.143:80/acesdownload/_mem_bin/formslogin.asp
+[21-03-09 10:59:25] - http://acesdownload.nic.in/acesdownload/ - _vti_pvt/authors.pwd - There was a problem in the request to: http://164.100.161.143:80/acesdownload/_vti_pvt/authors.pwd
+[21-03-09 10:59:29] - http://acesdownload.nic.in/acesdownload/ - admin/.htaccess - There was a problem in the request to: http://164.100.161.143:80/acesdownload/admin/.htaccess
+[21-03-09 10:59:31] - http://acesdownload.nic.in/acesdownload/ - msdac/root.exe?/c+dir - Cannot connect to: acesdownload.nic.in:80
+[21-03-09 10:59:37] - http://acesdownload.nic.in/acesdownload/ - administrator/.htaccess - There was a problem in the request to: http://164.100.161.143:80/acesdownload/administrator/.htaccess
+[21-03-09 10:59:39] - http://acesdownload.nic.in/acesdownload/ - qq.php - Cannot connect to: acesdownload.nic.in:80
+[21-03-09 10:59:39] - http://acesdownload.nic.in/acesdownload/ - app/.htaccess - There was a problem in the request to: http://164.100.161.143:80/acesdownload/app/.htaccess
+[21-03-09 10:59:41] - http://acesdownload.nic.in/acesdownload/ - scripts/root.exe?/c+dir - Cannot connect to: acesdownload.nic.in:80
+[21-03-09 10:59:44] - http://acesdownload.nic.in/acesdownload/ - cfide/administrator/index.cfm - There was a problem in the request to: http://164.100.161.143:80/acesdownload/cfide/administrator/index.cfm
+[21-03-09 10:59:44] - http://acesdownload.nic.in/acesdownload/ - cgi-bin/htimage.exe?2,2 - There was a problem in the request to: http://164.100.161.143:80/acesdownload/cgi-bin/htimage.exe?2,2
+[21-03-09 10:59:52] - http://acesdownload.nic.in/acesdownload/ - etc/passwd - There was a problem in the request to: http://164.100.161.143:80/acesdownload/etc/passwd
+[21-03-09 10:59:52] - http://acesdownload.nic.in/acesdownload/ - web.config::$DATA - Cannot connect to: acesdownload.nic.in:80
+[21-03-09 10:59:54] - http://acesdownload.nic.in/acesdownload/ - wpad.dat - Cannot connect to: acesdownload.nic.in:80
+[21-03-09 10:59:56] - http://acesdownload.nic.in/acesdownload/ - iisadmpwd/aexp.htr - There was a problem in the request to: http://164.100.161.143:80/acesdownload/iisadmpwd/aexp.htr
+[21-03-09 10:59:56] - http://acesdownload.nic.in/acesdownload/ - iisadmpwd/aexp2.htr - There was a problem in the request to: http://164.100.161.143:80/acesdownload/iisadmpwd/aexp2.htr
+[21-03-09 10:59:56] - http://acesdownload.nic.in/acesdownload/ - iisadmpwd/aexp3.htr - There was a problem in the request to: http://164.100.161.143:80/acesdownload/iisadmpwd/aexp3.htr
+[21-03-09 10:59:56] - http://acesdownload.nic.in/acesdownload/ - iisadmpwd/aexp2b.htr - There was a problem in the request to: http://164.100.161.143:80/acesdownload/iisadmpwd/aexp2b.htr
+[21-03-09 10:59:56] - http://acesdownload.nic.in/acesdownload/ - iisadmpwd/aexp4b.htr - There was a problem in the request to: http://164.100.161.143:80/acesdownload/iisadmpwd/aexp4b.htr
+[21-03-09 10:59:56] - http://acesdownload.nic.in/acesdownload/ - iisadmpwd/aexp4.htr - There was a problem in the request to: http://164.100.161.143:80/acesdownload/iisadmpwd/aexp4.htr
+[21-03-09 11:00:13] - http://acesdownload.nic.in/acesdownload/ - pma/scripts/setup.php - There was a problem in the request to: http://164.100.161.143:80/acesdownload/pma/scripts/setup.php
+[21-03-09 11:00:15] - http://acesdownload.nic.in/acesdownload/ - remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd - There was a problem in the request to: http://164.100.161.143:80/acesdownload/remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd
+[21-03-09 11:00:15] - http://acesdownload.nic.in/acesdownload/ - remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession - There was a problem in the request to: http://164.100.161.143:80/acesdownload/remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
+[21-03-09 11:00:17] - http://acesdownload.nic.in/acesdownload/ - scripts/iisadmin/ism.dll?http/dir - There was a problem in the request to: http://164.100.161.143:80/acesdownload/scripts/iisadmin/ism.dll?http/dir
+[21-03-09 11:00:17] - http://acesdownload.nic.in/acesdownload/ - scripts/cgimail.exe - There was a problem in the request to: http://164.100.161.143:80/acesdownload/scripts/cgimail.exe
+[21-03-09 11:00:21] - http://acesdownload.nic.in/acesdownload/ - srchadm - There was a problem in the request to: http://164.100.161.143:80/acesdownload/srchadm
+[21-03-09 11:00:24] - http://acesdownload.nic.in/acesdownload/ - text-base/etc/passwd - There was a problem in the request to: http://164.100.161.143:80/acesdownload/text-base/etc/passwd
+[21-03-09 11:00:27] - http://acesdownload.nic.in/acesdownload/ - view-source - There was a problem in the request to: http://164.100.161.143:80/acesdownload/view-source
+[21-03-09 11:00:29] - http://acesdownload.nic.in/acesdownload/ - wwwboard/passwd.txt - There was a problem in the request to: http://164.100.161.143:80/acesdownload/wwwboard/passwd.txt
+[21-03-09 11:00:30] - http://acesdownload.nic.in/acesdownload/ - xshell.php - There was a problem in the request to: http://164.100.161.143:80/acesdownload/xshell.php

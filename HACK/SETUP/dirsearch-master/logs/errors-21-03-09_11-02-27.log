@@ -1,0 +1,75 @@
+
+[21-03-09 11:03:10] - http://aecs1jaduguda.nic.in/ - !.htaccess - There was a problem in the request to: http://164.100.87.96:80/!.htaccess
+[21-03-09 11:03:11] - http://aecs1jaduguda.nic.in/ - +CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua - There was a problem in the request to: http://164.100.87.96:80/+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua
+[21-03-09 11:03:11] - http://aecs1jaduguda.nic.in/ - +CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../ - There was a problem in the request to: http://164.100.87.96:80/+CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../
+[21-03-09 11:03:11] - http://aecs1jaduguda.nic.in/ - .bash_history - There was a problem in the request to: http://164.100.87.96:80/.bash_history
+[21-03-09 11:03:22] - http://aecs1jaduguda.nic.in/ - .htaccess-dev - There was a problem in the request to: http://164.100.87.96:80/.htaccess-dev
+[21-03-09 11:03:22] - http://aecs1jaduguda.nic.in/ - .htaccess-local - There was a problem in the request to: http://164.100.87.96:80/.htaccess-local
+[21-03-09 11:03:22] - http://aecs1jaduguda.nic.in/ - .htaccess - There was a problem in the request to: http://164.100.87.96:80/.htaccess
+[21-03-09 11:03:22] - http://aecs1jaduguda.nic.in/ - .htaccess-marco - There was a problem in the request to: http://164.100.87.96:80/.htaccess-marco
+[21-03-09 11:03:22] - http://aecs1jaduguda.nic.in/ - .htaccess.bak - There was a problem in the request to: http://164.100.87.96:80/.htaccess.bak
+[21-03-09 11:03:22] - http://aecs1jaduguda.nic.in/ - .htaccess.BAK - There was a problem in the request to: http://164.100.87.96:80/.htaccess.BAK
+[21-03-09 11:03:22] - http://aecs1jaduguda.nic.in/ - .htaccess.bak1 - There was a problem in the request to: http://164.100.87.96:80/.htaccess.bak1
+[21-03-09 11:03:22] - http://aecs1jaduguda.nic.in/ - .htaccess.inc - There was a problem in the request to: http://164.100.87.96:80/.htaccess.inc
+[21-03-09 11:03:22] - http://aecs1jaduguda.nic.in/ - .htaccess.old - There was a problem in the request to: http://164.100.87.96:80/.htaccess.old
+[21-03-09 11:03:22] - http://aecs1jaduguda.nic.in/ - .htaccess.txt - There was a problem in the request to: http://164.100.87.96:80/.htaccess.txt
+[21-03-09 11:03:22] - http://aecs1jaduguda.nic.in/ - .htaccess/ - There was a problem in the request to: http://164.100.87.96:80/.htaccess/
+[21-03-09 11:03:22] - http://aecs1jaduguda.nic.in/ - .htaccess.orig - There was a problem in the request to: http://164.100.87.96:80/.htaccess.orig
+[21-03-09 11:03:22] - http://aecs1jaduguda.nic.in/ - .htaccessBAK - There was a problem in the request to: http://164.100.87.96:80/.htaccessBAK
+[21-03-09 11:03:22] - http://aecs1jaduguda.nic.in/ - .htaccessOLD - There was a problem in the request to: http://164.100.87.96:80/.htaccessOLD
+[21-03-09 11:03:22] - http://aecs1jaduguda.nic.in/ - .htaccess_extra - There was a problem in the request to: http://164.100.87.96:80/.htaccess_extra
+[21-03-09 11:03:22] - http://aecs1jaduguda.nic.in/ - .htaccessOLD2 - There was a problem in the request to: http://164.100.87.96:80/.htaccessOLD2
+[21-03-09 11:03:22] - http://aecs1jaduguda.nic.in/ - .htaccess_orig - There was a problem in the request to: http://164.100.87.96:80/.htaccess_orig
+[21-03-09 11:03:23] - http://aecs1jaduguda.nic.in/ - .htaccess~ - There was a problem in the request to: http://164.100.87.96:80/.htaccess~
+[21-03-09 11:03:41] - http://aecs1jaduguda.nic.in/ - .well-known/genid - Cannot connect to: aecs1jaduguda.nic.in:80
+[21-03-09 11:04:44] - http://aecs1jaduguda.nic.in/ - __main__.py - Cannot connect to: aecs1jaduguda.nic.in:80
+[21-03-09 11:04:44] - http://aecs1jaduguda.nic.in/ - __index.js - Cannot connect to: aecs1jaduguda.nic.in:80
+[21-03-09 11:04:44] - http://aecs1jaduguda.nic.in/ - __index.jsp - Cannot connect to: aecs1jaduguda.nic.in:80
+[21-03-09 11:04:44] - http://aecs1jaduguda.nic.in/ - __init__.py - Cannot connect to: aecs1jaduguda.nic.in:80
+[21-03-09 11:04:44] - http://aecs1jaduguda.nic.in/ - __index.html - Cannot connect to: aecs1jaduguda.nic.in:80
+[21-03-09 11:04:46] - http://aecs1jaduguda.nic.in/ - WEB-INF/config/soapConfig.xml - There was a problem in the request to: http://164.100.87.96:80/WEB-INF/config/soapConfig.xml
+[21-03-09 11:04:49] - http://aecs1jaduguda.nic.in/ - WEB-INF./ - There was a problem in the request to: http://164.100.87.96:80/WEB-INF./
+[21-03-09 11:04:49] - http://aecs1jaduguda.nic.in/ - WEB-INF./web.xml - There was a problem in the request to: http://164.100.87.96:80/WEB-INF./web.xml
+[21-03-09 11:05:05] - http://aecs1jaduguda.nic.in/ - admin_area/index.aspx - Cannot connect to: aecs1jaduguda.nic.in:80
+[21-03-09 11:05:05] - http://aecs1jaduguda.nic.in/ - admin_area/admin.html - Cannot connect to: aecs1jaduguda.nic.in:80
+[21-03-09 11:05:05] - http://aecs1jaduguda.nic.in/ - admin_area/index.html - Cannot connect to: aecs1jaduguda.nic.in:80
+[21-03-09 11:05:05] - http://aecs1jaduguda.nic.in/ - admin_area/admin.js - Cannot connect to: aecs1jaduguda.nic.in:80
+[21-03-09 11:05:05] - http://aecs1jaduguda.nic.in/ - admin_area/index.php - Cannot connect to: aecs1jaduguda.nic.in:80
+[21-03-09 11:05:20] - http://aecs1jaduguda.nic.in/ - admin_cat.html - Cannot connect to: aecs1jaduguda.nic.in:80
+[21-03-09 11:05:20] - http://aecs1jaduguda.nic.in/ - admin_cat.js - Cannot connect to: aecs1jaduguda.nic.in:80
+[21-03-09 11:05:20] - http://aecs1jaduguda.nic.in/ - admin_cat.aspx - Cannot connect to: aecs1jaduguda.nic.in:80
+[21-03-09 11:05:20] - http://aecs1jaduguda.nic.in/ - admin_cat.jsp - Cannot connect to: aecs1jaduguda.nic.in:80
+[21-03-09 11:05:33] - http://aecs1jaduguda.nic.in/ - _vti_bin/_vti_aut/author.dll - There was a problem in the request to: http://164.100.87.96:80/_vti_bin/_vti_aut/author.dll
+[21-03-09 11:05:34] - http://aecs1jaduguda.nic.in/ - a%5c.aspx - There was a problem in the request to: http://164.100.87.96:80/a%5c.aspx
+[21-03-09 11:06:22] - http://aecs1jaduguda.nic.in/ - administrator/.htaccess - There was a problem in the request to: http://164.100.87.96:80/administrator/.htaccess
+[21-03-09 11:06:24] - http://aecs1jaduguda.nic.in/ - app/.htaccess - There was a problem in the request to: http://164.100.87.96:80/app/.htaccess
+[21-03-09 11:06:27] - http://aecs1jaduguda.nic.in/ - c99shell.php - There was a problem in the request to: http://164.100.87.96:80/c99shell.php
+[21-03-09 11:06:28] - http://aecs1jaduguda.nic.in/ - c99.php - There was a problem in the request to: http://164.100.87.96:80/c99.php
+[21-03-09 11:06:28] - http://aecs1jaduguda.nic.in/ - cgi-bin/printenv.pl - There was a problem in the request to: http://164.100.87.96:80/cgi-bin/printenv.pl
+[21-03-09 11:06:28] - http://aecs1jaduguda.nic.in/ - cgi-bin/test-cgi - There was a problem in the request to: http://164.100.87.96:80/cgi-bin/test-cgi
+[21-03-09 11:06:29] - http://aecs1jaduguda.nic.in/ - cmdasp.asp - There was a problem in the request to: http://164.100.87.96:80/cmdasp.asp
+[21-03-09 11:06:29] - http://aecs1jaduguda.nic.in/ - cmdasp.aspx - There was a problem in the request to: http://164.100.87.96:80/cmdasp.aspx
+[21-03-09 11:06:36] - http://aecs1jaduguda.nic.in/ - etc/passwd - There was a problem in the request to: http://164.100.87.96:80/etc/passwd
+[21-03-09 11:06:37] - http://aecs1jaduguda.nic.in/ - examples/servlet/SnoopServlet - There was a problem in the request to: http://164.100.87.96:80/examples/servlet/SnoopServlet
+[21-03-09 11:06:41] - http://aecs1jaduguda.nic.in/ - images/c99.php - There was a problem in the request to: http://164.100.87.96:80/images/c99.php
+[21-03-09 11:06:43] - http://aecs1jaduguda.nic.in/ - j2ee/servlet/SnoopServlet - There was a problem in the request to: http://164.100.87.96:80/j2ee/servlet/SnoopServlet
+[21-03-09 11:06:43] - http://aecs1jaduguda.nic.in/ - jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo - There was a problem in the request to: http://164.100.87.96:80/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo
+[21-03-09 11:06:51] - http://aecs1jaduguda.nic.in/ - msdac/root.exe?/c+dir - There was a problem in the request to: http://164.100.87.96:80/msdac/root.exe?/c+dir
+[21-03-09 11:06:53] - http://aecs1jaduguda.nic.in/ - nst.php - There was a problem in the request to: http://164.100.87.96:80/nst.php
+[21-03-09 11:06:53] - http://aecs1jaduguda.nic.in/ - nstview.php - There was a problem in the request to: http://164.100.87.96:80/nstview.php
+[21-03-09 11:06:53] - http://aecs1jaduguda.nic.in/ - old.htaccess - There was a problem in the request to: http://164.100.87.96:80/old.htaccess
+[21-03-09 11:06:56] - http://aecs1jaduguda.nic.in/ - php-backdoor.php - There was a problem in the request to: http://164.100.87.96:80/php-backdoor.php
+[21-03-09 11:07:03] - http://aecs1jaduguda.nic.in/ - simple-backdoor.php - There was a problem in the request to: http://164.100.87.96:80/simple-backdoor.php
+[21-03-09 11:07:03] - http://aecs1jaduguda.nic.in/ - r57eng.php - There was a problem in the request to: http://164.100.87.96:80/r57eng.php
+[21-03-09 11:07:03] - http://aecs1jaduguda.nic.in/ - r57.php - There was a problem in the request to: http://164.100.87.96:80/r57.php
+[21-03-09 11:07:03] - http://aecs1jaduguda.nic.in/ - r57shell.php - There was a problem in the request to: http://164.100.87.96:80/r57shell.php
+[21-03-09 11:07:04] - http://aecs1jaduguda.nic.in/ - remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession - There was a problem in the request to: http://164.100.87.96:80/remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
+[21-03-09 11:07:04] - http://aecs1jaduguda.nic.in/ - remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd - There was a problem in the request to: http://164.100.87.96:80/remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd
+[21-03-09 11:07:06] - http://aecs1jaduguda.nic.in/ - rst.php - There was a problem in the request to: http://164.100.87.96:80/rst.php
+[21-03-09 11:07:07] - http://aecs1jaduguda.nic.in/ - scripts/root.exe?/c+dir - There was a problem in the request to: http://164.100.87.96:80/scripts/root.exe?/c+dir
+[21-03-09 11:07:08] - http://aecs1jaduguda.nic.in/ - servlet/Oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml - There was a problem in the request to: http://164.100.87.96:80/servlet/Oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
+[21-03-09 11:07:09] - http://aecs1jaduguda.nic.in/ - servlet/Oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml - There was a problem in the request to: http://164.100.87.96:80/servlet/Oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
+[21-03-09 11:07:09] - http://aecs1jaduguda.nic.in/ - servlet/SnoopServlet - There was a problem in the request to: http://164.100.87.96:80/servlet/SnoopServlet
+[21-03-09 11:07:09] - http://aecs1jaduguda.nic.in/ - servlet/oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml - There was a problem in the request to: http://164.100.87.96:80/servlet/oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
+[21-03-09 11:07:09] - http://aecs1jaduguda.nic.in/ - servlet/oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml - There was a problem in the request to: http://164.100.87.96:80/servlet/oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
+[21-03-09 11:07:10] - http://aecs1jaduguda.nic.in/ - text-base/etc/passwd - There was a problem in the request to: http://164.100.87.96:80/text-base/etc/passwd

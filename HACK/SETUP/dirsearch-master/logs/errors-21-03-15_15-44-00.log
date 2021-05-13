@@ -1,0 +1,7 @@
+
+[21-03-15 15:45:48] - http://zapp.dcsg.com/ - billing/killer.php - Cannot connect to: zapp.dcsg.com:80
+[21-03-15 15:45:50] - http://zapp.dcsg.com/ - blockchain.json - Cannot connect to: zapp.dcsg.com:80
+[21-03-15 15:46:03] - http://zapp.dcsg.com/ - client_secrets.json - Cannot connect to: zapp.dcsg.com:80
+[21-03-15 15:46:03] - http://zapp.dcsg.com/ - cliente/ - Cannot connect to: zapp.dcsg.com:80
+[21-03-15 15:46:03] - http://zapp.dcsg.com/ - clocktower - Cannot connect to: zapp.dcsg.com:80
+[21-03-15 15:46:03] - http://zapp.dcsg.com/ - clients.sqlite - Cannot connect to: zapp.dcsg.com:80
